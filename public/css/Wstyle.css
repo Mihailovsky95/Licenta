@@ -1,0 +1,269 @@
+* {
+   margin: 0;
+   padding: 0;
+
+
+}
+
+body {
+  background-image:url("https://imgs.search.brave.com/Aeknpzc9UA9TVgvl84upQJ4wStmLLVwP5R0dXAN3_xg/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXZlLmNv/bS93cC93cDI2NTE5/NTEuanBn");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: 'Merriweather Sans', sans-serif;
+  width:100%;
+  resize: both;
+  overflow: scroll;
+  min-height: 150vh;
+}
+
+.start-img{
+  position:relative;
+  display:inline-block;
+  left:100vh;
+
+}
+
+.top-content{
+  width:500px;
+  height: 300px;
+  text-align: center;
+}
+
+.disp-mod{
+  position: relative;
+  display: inline-block;
+  left:100%;
+  top:50px;
+
+}
+
+.middle-content{
+  width:500px;
+  height: 300px;
+  position: relative;
+  display: inline-block;
+  left:10%;
+
+}
+
+.middle-img {
+  position: relative;
+  display: inline-block;
+  float: left;
+  top:20px;
+
+}
+
+.bottom-content{
+  width:600px;
+  height: 300px;
+  position: relative;
+  display: inline-block;
+  left:100px;
+  top:300px;
+
+}
+
+.end-img{
+  position: relative;
+  display: inline-block;
+  float: left;
+  top:20px;
+}
+
+.comercial{
+  position: relative;
+  display: inline-block;
+  left: 300px;
+  top:10px;
+}
+
+.login-img{
+
+  text-align: center;
+}
+
+
+.Log-img{
+
+  position: relative;
+  display: inline-block;
+  float: left;
+  top: 50px;
+
+}
+.auxilar-content{
+  width:70%;
+  height: 100px;
+  position: relative;
+  display: inline-block;
+  left:100px;
+  top:200px;
+}
+
+.typewriter h1 {
+  display: inline-block;
+  position: relative;
+  top:30px;
+  padding: 20px;
+  color: #00FFFF;
+  font-family: monospace;
+  overflow: hidden; /* Ensures the content is not revealed until the animation */
+  border-right: .15em solid orange; /* The typwriter cursor */
+  white-space: nowrap; /* Keeps the content on a single line */
+  margin: 0 auto; /* Gives that scrolling effect as the typing happens */
+  letter-spacing: .15em; /* Adjust as needed */
+  animation:
+    typing 3.5s steps(30, end),
+    blink-caret .5s step-end infinite;
+}
+
+/* The typing effect */
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+
+/* The typewriter cursor effect */
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color: blue }
+}
+
+
+.log-btn{
+   width: 30%;
+   height: 50px;
+   display: inline-block;
+   position: relative;
+   top:200px;
+   float: right;
+   right: 300px;
+   border-radius: 20px;
+}
+
+.my-own{
+   padding:20px;
+
+}
+
+.send-mail{
+   display:inline;
+   position: relative;
+   left:200px;
+   bottom:45px;
+
+}
+
+.img2{
+  position: relative;
+  display: inline-block;
+  float: right;
+  top:50px;
+  width: 50%;
+  padding-top: 50px;
+  right:150px;
+}
+
+.myOwn {
+  position: relative;
+  display: inline-block;
+  float: right;
+  top:20px;
+  width: 60%;
+  padding-top: 50px;
+  right:150px;
+}
+
+.myOwn1 {
+  position: relative;
+  display: inline-block;
+  float: left;
+  top:20px;
+  width: 60%;
+  padding-top: 50px;
+  padding-top: 50px;
+  left:100px;
+}
+.centerMe{
+  padding-top: 50px;
+  text-align: center;
+}
+
+.box {
+  max-width: 800px;
+  margin: 50px auto;
+  background: #7B68EE;
+  border-radius: 5px;
+  box-shadow: 5px 5px 15px -5px rgba(0, 0, 0, 0.3);
+}
+.item {
+  min-height: 70px;
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid #F1F1F1;
+}
+.item:last-child {
+  border-bottom: 0;
+}
+
+input:checked+p {
+  text-decoration: line-through;
+  text-decoration-color: #A52A2A;
+}
+
+input[type="checkbox"] {
+  margin: 20px;
+}
+
+.article-element {
+  margin: 0;
+  padding: 20px;
+  font-size: 20px;
+  font-weight: 200;
+  color: #fff;
+}
+
+.article-heading {
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+}
+form.item {
+  text-align: center;
+  margin-left: 20px;
+}
+
+button {
+  min-height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  border-color: transparent;
+  background-color: #A683E3;
+  color: #fff;
+  font-size: 30px;
+  padding-bottom: 6px;
+  border-width: 0;
+}
+
+input[type="text"] {
+  text-align: center;
+  height: 60px;
+  top: 10px;
+  border: none;
+  background: transparent;
+  font-size: 20px;
+  font-weight: 200;
+  width: 313px;
+}
+
+input[type="text"]:focus {
+  outline: none;
+  box-shadow: inset 0 -3px 0 0 #A683E3;
+}
+
+::placeholder {
+  color: white;
+  opacity: 1;
+}

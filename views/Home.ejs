@@ -1,0 +1,50 @@
+<%- include('partials/header'); -%>
+<div class="container">
+  <div class="interface col-12 mt-2 d-flex justify-content-center">
+    <h1>
+       <%="Welcome " + userName%>
+    </h1>
+  </div>
+  <div class="col-12 centerMe" style="margin-top:5rem;">
+    <div class="row">
+      <div class="col-6">
+      <h2>Easy & fast Learning:</h2>
+        <h4 class="mt-3">
+        A picture is worth a thousand words.......and a video is worth a million pictures.....
+        </h4>
+        <h6>Check our Video Section</h6>
+        <img src="https://imgs.search.brave.com/2hAKDM8Vz9oNxhmilW71us9UxcglkYtYHoNXWec_KJ8/rs:fit:280:280:1/g:ce/aHR0cHM6Ly90aHVt/YnMuZ2Z5Y2F0LmNv/bS9XaWx0ZWRCcmll/ZkR3YXJmcmFiYml0/LW1heC0xbWIuZ2lm.gif" class="img2">
+        <a href="/view" class="btn btn-primary btn-lg active myOwn1" role="button" aria-pressed="true">Video Section</a>
+      </div>
+      <div class="col-6 d-flex flex-column align-items-center">
+              <img src="https://elitediscovery.com/wp-content/uploads/upload-1.png" id="js-trigger"  style="cursor:pointer;">
+
+      </div>
+    </div>
+  </div>
+
+  <div >
+    <img class="upload-v1" style="display:none;" id="js-trigger" src="https://4.imimg.com/data4/YO/TD/MY-8126412/data-storage-management-500x500.jpg">
+      <div class ="upload-v">
+      <form action="upload.php" style="display:none;" method="post" enctype="multipart/form-data" id="submit-video">
+        <input type="file" name="my_video" id="js-my_video">
+        <input type="submit" id="js-submit" name="submit" value="Upload">
+      </form>
+    </div>
+    <div class="col-12  centerMe" style="margin-top:5rem;">
+      <div class="row">
+        <div class="col-6">
+        <h2>Reading Time:</h2>
+          <h4 class="mt-3">
+            Don't be a great programmer,but be a good programmer with great habits.
+          </h4>
+          <h6>Check our Article Section</h6>
+          <img src = "https://imgs.search.brave.com/3zR8jjr70YieYeNT8Ks4LHkjf2YQNWBuFStPKaVAq-s/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9jZG4u/ZHJpYmJibGUuY29t/L3VzZXJzLzI3MDQ0/MTQvc2NyZWVuc2hv/dHMvNzQ2NjkwMy9z/ZWxmcG9ydHJhaXQu/Z2lm.gif" class="img2">
+          <a href="/articles" class="btn btn-primary btn-lg active myOwn" role="button" aria-pressed="true">Documentation</a>
+        </div>
+      </div>
+    </div>
+</div>
+</div>
+
+<%- include('partials/footer'); -%>

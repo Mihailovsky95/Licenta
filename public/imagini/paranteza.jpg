@@ -1,0 +1,1279 @@
+<!DOCTYPE html>
+<!-- saved from url=(0087)https://search.brave.com/images?q=programming&source=web&size=Small&color=Monochrome#36 -->
+<html class="no-js " lang="en-us"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta name="robots" content="noindex,nofollow">
+    <meta name="description" content="Search the web privately ...">
+    <meta property="og:title" content="Brave Search">
+    <meta property="og:description" content="Search the web privately ...">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://search.brave.com/">
+    <meta property="og:locale" content="en-us">
+    <meta property="og:image" content="https://cdn.search.brave.com/serp/v1/static/brand/eee0ff3913d408afdbd9408094a4e069d1d4bc83173a457bda4b1419f8f0ae47-ogImg.png">
+    <meta property="og:image:width" content="307">
+    <meta property="og:image:height" content="291">
+    <meta property="og:site_name" content="Brave Search">
+    <meta name="keywords" content="brave, search">
+    <meta name="referrer" content="no-referrer">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
+    <link rel="search" type="application/opensearchdescription+xml" title="Brave Search" href="https://cdn.search.brave.com/serp/v1/static/brand/31524a62fdb66f33edbf7fdcdc42ac9533b115bff4778cb9e087b3402af64958-opensearch.xml">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://cdn.search.brave.com/serp/v1/static/brand/8eabe183f0d1f2cb3e2916b7b20c310efd196d740c8cecd341732fcd396fb665-apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://cdn.search.brave.com/serp/v1/static/brand/16c26cd189da3f0f7ba4e55a584ddde6a7853c9cc340ff9f381afc6cb18e9a1e-favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://cdn.search.brave.com/serp/v1/static/brand/9b3cd14668935362449eebb1854f575091a1169bf51aba6a8c17b39f64a9d07e-favicon-16x16.png">
+    <link rel="manifest" crossorigin="anonymous" href="https://cdn.search.brave.com/serp/v1/static/brand/76c2eb434b6bb7c0a14d0769cb059c45b92a0076ce585ce47b024edff641d98d-site-webmanifest">
+    <link rel="mask-icon" href="https://cdn.search.brave.com/serp/v1/static/brand/dec70f98955eb6e2c347d2467f82672502d1348d40e0d40e1f7e2bab0d857708-safari-pinned-tab.svg">
+    <link href="https://cdn.search.brave.com/" rel="preconnect" crossorigin="anonymous">
+    <link href="https://imgs.search.brave.com/" rel="preconnect" crossorigin="anonymous">
+    <link href="https://tiles.search.brave.com/" rel="preconnect" crossorigin="anonymous">
+    <link rel="preload" href="https://cdn.search.brave.com/serp/v1/static/fonts/poppins/a33bc462ca68d387f65db290ff2791c7d6e82917a71a830b7f2d626c5fdcfa26-latin-normal-400.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+    <link rel="preload" href="https://cdn.search.brave.com/serp/v1/static/fonts/poppins/cbbe1fdc585070fc91576dc40ad89b3213b9ea79adf9d57ac732c1f6f4fa2cd2-latin-normal-500.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+    <title>programming - Brave Search</title>
+    <style type="text/css">
+      /* devanagari */
+@font-face {
+    font-family: "Poppins";
+    font-style: italic;
+    font-weight: 100;
+    font-display: optional;
+    src: url("https://cdn.search.brave.com/serp/v1/static/fonts/poppins/2609774f138dc0746242d870b10436fd9a77b700fd6d62373cf7080b84099d91-devanagari-italic-100.woff2") format("woff2");
+    unicode-range: U+0900-097F, U+1CD0-1CF6, U+1CF8-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB;
+}
+/* latin-ext */
+@font-face {
+    font-family: "Poppins";
+    font-style: italic;
+    font-weight: 100;
+    font-display: optional;
+    src: url("https://cdn.search.brave.com/serp/v1/static/fonts/poppins/81996cd80ac6830d4be558326314bbd839e4eccd5cd5d7e323152a650e6adc8e-latin-ext-italic-100.woff2") format("woff2");
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+    font-family: "Poppins";
+    font-style: italic;
+    font-weight: 100;
+    font-display: optional;
+    src: url("https://cdn.search.brave.com/serp/v1/static/fonts/poppins/1792cf9ae05a90f30465ed6c6c41749cec62824dc07d232bad29eca9f5cfb6df-latin-italic-100.woff2") format("woff2");
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* devanagari */
+@font-face {
+    font-family: "Poppins";
+    font-style: italic;
+    font-weight: 200;
+    font-display: optional;
+    src: url("https://cdn.search.brave.com/serp/v1/static/fonts/poppins/bb2bb9a8ef58327782d1dd01f32b759f425e4223e0813a637d1afc42b89e9d8c-devanagari-italic-200.woff2") format("woff2");
+    unicode-range: U+0900-097F, U+1CD0-1CF6, U+1CF8-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB;
+}
+/* latin-ext */
+@font-face {
+    font-family: "Poppins";
+    font-style: italic;
+    font-weight: 200;
+    font-display: optional;
+    src: url("https://cdn.search.brave.com/serp/v1/static/fonts/poppins/acacb7d800874f0206de36dc7e7a414ca95f404eb76b16a712f1ff15aba66b75-latin-ext-italic-200.woff2") format("woff2");
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+    font-family: "Poppins";
+    font-style: italic;
+    font-weight: 200;
+    font-display: optional;
+    src: url("https://cdn.search.brave.com/serp/v1/static/fonts/poppins/2872244cc3e32a23c34000b55af44753bb3e13cdc33b7c09a945d539e028d87c-latin-italic-200.woff2") format("woff2");
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* devanagari */
+@font-face {
+    font-family: "Poppins";
+    font-style: italic;
+    font-weight: 300;
+    font-display: optional;
+    src: url("https://cdn.search.brave.com/serp/v1/static/fonts/poppins/d2ff8fac812fca4221d8b07016d3705e8cc7df41bcac3d5ac7bcb33c619a66ba-devanagari-italic-300.woff2") format("woff2");
+    unicode-range: U+0900-097F, U+1CD0-1CF6, U+1CF8-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB;
+}
+/* latin-ext */
+@font-face {
+    font-family: "Poppins";
+    font-style: italic;
+    font-weight: 300;
+    font-display: optional;
+    src: url("https://cdn.search.brave.com/serp/v1/static/fonts/poppins/1076a7715ea269b73764514729176a86ab36b27defb6825166d5ec9095c0ced3-latin-ext-italic-300.woff2") format("woff2");
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+    font-family: "Poppins";
+    font-style: italic;
+    font-weight: 300;
+    font-display: optional;
+    src: url("https://cdn.search.brave.com/serp/v1/static/fonts/poppins/2ccd353327357adef7871b1836220314c2a0fd3ef8e6510d863275f011fadf64-latin-italic-300.woff2") format("woff2");
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* devanagari */
+@font-face {
+    font-family: "Poppins";
+    font-style: italic;
+    font-weight: 400;
+    font-display: optional;
+    src: url("https://cdn.search.brave.com/serp/v1/static/fonts/poppins/e0868955304da226564bd3b1fbcbd24c987e027f0d95711b350026544a2a08a8-devanagari-italic-400.woff2") format("woff2");
+    unicode-range: U+0900-097F, U+1CD0-1CF6, U+1CF8-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB;
+}
+/* latin-ext */
+@font-face {
+    font-family: "Poppins";
+    font-style: italic;
+    font-weight: 400;
+    font-display: optional;
+    src: url("https://cdn.search.brave.com/serp/v1/static/fonts/poppins/4964e54941efaf04d503d2ad34e769ff41e5dc20d00454e1145ccd41e7d4ba73-latin-ext-italic-400.woff2") format("woff2");
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+    font-family: "Poppins";
+    font-style: italic;
+    font-weight: 400;
+    font-display: optional;
+    src: url("https://cdn.search.brave.com/serp/v1/static/fonts/poppins/9cc05ee2b51dfe10f4158cb5c422a2fbf9c5b03f9d9e3e703059074757229a50-latin-italic-400.woff2") format("woff2");
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* devanagari */
+@font-face {
+    font-family: "Poppins";
+    font-style: italic;
+    font-weight: 500;
+    font-display: optional;
+    src: url("https://cdn.search.brave.com/serp/v1/static/fonts/poppins/f1dc7b87ec7bd4a4fd68ad43a2d6542b0a9debba59b814b74006ac6631010467-devanagari-italic-500.woff2") format("woff2");
+    unicode-range: U+0900-097F, U+1CD0-1CF6, U+1CF8-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB;
+}
+/* latin-ext */
+@font-face {
+    font-family: "Poppins";
+    font-style: italic;
+    font-weight: 500;
+    font-display: optional;
+    src: url("https://cdn.search.brave.com/serp/v1/static/fonts/poppins/d4b79ef248e69b1938bdf189d0ee1c5e1e2eeea07ebfdfe1480ea3218dd8587e-latin-ext-italic-500.woff2") format("woff2");
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+    font-family: "Poppins";
+    font-style: italic;
+    font-weight: 500;
+    font-display: optional;
+    src: url("https://cdn.search.brave.com/serp/v1/static/fonts/poppins/ced40c2d808d6da1484301654b1769b61c991b18937816101cccac3bf2df2b09-latin-italic-500.woff2") format("woff2");
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* devanagari */
+@font-face {
+    font-family: "Poppins";
+    font-style: italic;
+    font-weight: 600;
+    font-display: optional;
+    src: url("https://cdn.search.brave.com/serp/v1/static/fonts/poppins/ed0731dbe151fa879e05303037da76fa90188a572eda172473aa5f2233a9cc43-devanagari-italic-600.woff2") format("woff2");
+    unicode-range: U+0900-097F, U+1CD0-1CF6, U+1CF8-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB;
+}
+/* latin-ext */
+@font-face {
+    font-family: "Poppins";
+    font-style: italic;
+    font-weight: 600;
+    font-display: optional;
+    src: url("https://cdn.search.brave.com/serp/v1/static/fonts/poppins/661d4e200998b5523b20006ff545c3e3aef98362aa4123fe5b2841a349d7e978-latin-ext-italic-600.woff2") format("woff2");
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+    font-family: "Poppins";
+    font-style: italic;
+    font-weight: 600;
+    font-display: optional;
+    src: url("https://cdn.search.brave.com/serp/v1/static/fonts/poppins/e4952585b5cc06b9a3d992d3bbd5a5f568532526feac4da21cb2ae6eb20cc4d4-latin-italic-600.woff2") format("woff2");
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* devanagari */
+@font-face {
+    font-family: "Poppins";
+    font-style: italic;
+    font-weight: 700;
+    font-display: optional;
+    src: url("https://cdn.search.brave.com/serp/v1/static/fonts/poppins/22173830ca796775c946b66c66ffb11faefc486fd509e34475f5f640cc35dc61-devanagari-italic-700.woff2") format("woff2");
+    unicode-range: U+0900-097F, U+1CD0-1CF6, U+1CF8-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB;
+}
+/* latin-ext */
+@font-face {
+    font-family: "Poppins";
+    font-style: italic;
+    font-weight: 700;
+    font-display: optional;
+    src: url("https://cdn.search.brave.com/serp/v1/static/fonts/poppins/202ae136a6089d9c529ef71a2bb89c4170e5850f35827f2c30e0c178adc84fb4-latin-ext-italic-700.woff2") format("woff2");
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+    font-family: "Poppins";
+    font-style: italic;
+    font-weight: 700;
+    font-display: optional;
+    src: url("https://cdn.search.brave.com/serp/v1/static/fonts/poppins/3e9560f2d6f4523c769e87790ba4305703ea86b6cbcc96dc1fd0b0b7e9d61da8-latin-italic-700.woff2") format("woff2");
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* devanagari */
+@font-face {
+    font-family: "Poppins";
+    font-style: italic;
+    font-weight: 800;
+    font-display: optional;
+    src: url("https://cdn.search.brave.com/serp/v1/static/fonts/poppins/088053e27b4199997b3f64663e2d34609f5cda1809b8f6a651497990cf740193-devanagari-italic-800.woff2") format("woff2");
+    unicode-range: U+0900-097F, U+1CD0-1CF6, U+1CF8-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB;
+}
+/* latin-ext */
+@font-face {
+    font-family: "Poppins";
+    font-style: italic;
+    font-weight: 800;
+    font-display: optional;
+    src: url("https://cdn.search.brave.com/serp/v1/static/fonts/poppins/a82cb8fdf4464868a1f80d9f6813a631da907bc7cb36c00d50d527f7e5d843df-latin-ext-italic-800.woff2") format("woff2");
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+    font-family: "Poppins";
+    font-style: italic;
+    font-weight: 800;
+    font-display: optional;
+    src: url("https://cdn.search.brave.com/serp/v1/static/fonts/poppins/fc2733e450e01321db0eac69d46d30d03fabad2c30ce85065bd4e522b0ed0cc0-latin-italic-800.woff2") format("woff2");
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* devanagari */
+@font-face {
+    font-family: "Poppins";
+    font-style: italic;
+    font-weight: 900;
+    font-display: optional;
+    src: url("https://cdn.search.brave.com/serp/v1/static/fonts/poppins/cf66350018b768e58ab8c515ec7b8b8634346e7d920e14a0294031f6d8fb9edf-devanagari-italic-900.woff2") format("woff2");
+    unicode-range: U+0900-097F, U+1CD0-1CF6, U+1CF8-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB;
+}
+/* latin-ext */
+@font-face {
+    font-family: "Poppins";
+    font-style: italic;
+    font-weight: 900;
+    font-display: optional;
+    src: url("https://cdn.search.brave.com/serp/v1/static/fonts/poppins/17d15055999304330592259112c9ec1c6d368721be46f81df07892f540c5d1b6-latin-ext-italic-900.woff2") format("woff2");
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+    font-family: "Poppins";
+    font-style: italic;
+    font-weight: 900;
+    font-display: optional;
+    src: url("https://cdn.search.brave.com/serp/v1/static/fonts/poppins/c947200b7b68f85c4e1f518fa8010636e6561de78d907112b583d6a2b325023f-latin-italic-900.woff2") format("woff2");
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* devanagari */
+@font-face {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 100;
+    font-display: optional;
+    src: url("https://cdn.search.brave.com/serp/v1/static/fonts/poppins/413bc0086b769fa83a4ac572a626ce309cfeb1b9079fbae08a1661f831d49039-devanagari-normal-100.woff2") format("woff2");
+    unicode-range: U+0900-097F, U+1CD0-1CF6, U+1CF8-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB;
+}
+/* latin-ext */
+@font-face {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 100;
+    font-display: optional;
+    src: url("https://cdn.search.brave.com/serp/v1/static/fonts/poppins/6409bb27031384ac5e853593f0883f21761e60e980e00bbdc7f62147306efbf3-latin-ext-normal-100.woff2") format("woff2");
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 100;
+    font-display: optional;
+    src: url("https://cdn.search.brave.com/serp/v1/static/fonts/poppins/33ed0dc4efcba9d23444d91d886fb656ea708b7f0588706cb7e9b45521152d87-latin-normal-100.woff2") format("woff2");
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* devanagari */
+@font-face {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 200;
+    font-display: optional;
+    src: url("https://cdn.search.brave.com/serp/v1/static/fonts/poppins/c139eab5d644b0622caf6b35468e81da9ab8b22a6571367e93dd2e120bee9e95-devanagari-normal-200.woff2") format("woff2");
+    unicode-range: U+0900-097F, U+1CD0-1CF6, U+1CF8-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB;
+}
+/* latin-ext */
+@font-face {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 200;
+    font-display: optional;
+    src: url("https://cdn.search.brave.com/serp/v1/static/fonts/poppins/5cc311f29b4b6f901296a0b7e0242ab067b79d90e0c813f35015979da2c13445-latin-ext-normal-200.woff2") format("woff2");
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 200;
+    font-display: optional;
+    src: url("https://cdn.search.brave.com/serp/v1/static/fonts/poppins/9fd055a1bb3f78f9fd0882ec9c95732701524249799cbf23c761f9befb96c300-latin-normal-200.woff2") format("woff2");
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* devanagari */
+@font-face {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 300;
+    font-display: optional;
+    src: url("https://cdn.search.brave.com/serp/v1/static/fonts/poppins/897f8e913a4401306fb1cfd9f5c0d50e81a1ab9821345ca438189a54aa1b612b-devanagari-normal-300.woff2") format("woff2");
+    unicode-range: U+0900-097F, U+1CD0-1CF6, U+1CF8-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB;
+}
+/* latin-ext */
+@font-face {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 300;
+    font-display: optional;
+    src: url("https://cdn.search.brave.com/serp/v1/static/fonts/poppins/6642b21e6d0d4009e0938488d04ca29fb325466b8976b45f84ef2fd1217138af-latin-ext-normal-300.woff2") format("woff2");
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 300;
+    font-display: optional;
+    src: url("https://cdn.search.brave.com/serp/v1/static/fonts/poppins/5c6a6b4a000034474ebad618bae27ab76301a10270e8d39bc24f36e11342d1e7-latin-normal-300.woff2") format("woff2");
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* devanagari */
+@font-face {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 400;
+    font-display: optional;
+    src: url("https://cdn.search.brave.com/serp/v1/static/fonts/poppins/703bb0674355255c3c43828fdd59c0ae32b3fde3503a4161bd920f746660a894-devanagari-normal-400.woff2") format("woff2");
+    unicode-range: U+0900-097F, U+1CD0-1CF6, U+1CF8-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB;
+}
+/* latin-ext */
+@font-face {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 400;
+    font-display: optional;
+    src: url("https://cdn.search.brave.com/serp/v1/static/fonts/poppins/7a3b58083cde8637a4414af1a53c740117daa61626c726b53be37737c610a583-latin-ext-normal-400.woff2") format("woff2");
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 400;
+    font-display: optional;
+    src: url("https://cdn.search.brave.com/serp/v1/static/fonts/poppins/a33bc462ca68d387f65db290ff2791c7d6e82917a71a830b7f2d626c5fdcfa26-latin-normal-400.woff2") format("woff2");
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* devanagari */
+@font-face {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 500;
+    font-display: optional;
+    src: url("https://cdn.search.brave.com/serp/v1/static/fonts/poppins/33e7d2a81354d16f386d37dbb69c0531f3726a5e6a5a22e97f5a59bb9c35c076-devanagari-normal-500.woff2") format("woff2");
+    unicode-range: U+0900-097F, U+1CD0-1CF6, U+1CF8-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB;
+}
+/* latin-ext */
+@font-face {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 500;
+    font-display: optional;
+    src: url("https://cdn.search.brave.com/serp/v1/static/fonts/poppins/81f8a99471787f37ec4866bbce8924241b6008adc600eb080ed4caba0feb2683-latin-ext-normal-500.woff2") format("woff2");
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 500;
+    font-display: optional;
+    src: url("https://cdn.search.brave.com/serp/v1/static/fonts/poppins/cbbe1fdc585070fc91576dc40ad89b3213b9ea79adf9d57ac732c1f6f4fa2cd2-latin-normal-500.woff2") format("woff2");
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* devanagari */
+@font-face {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 600;
+    font-display: optional;
+    src: url("https://cdn.search.brave.com/serp/v1/static/fonts/poppins/01cda7f6fda40393e213a8156fc55b4270318eee6a1daad4320eb7f9d40cdaae-devanagari-normal-600.woff2") format("woff2");
+    unicode-range: U+0900-097F, U+1CD0-1CF6, U+1CF8-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB;
+}
+/* latin-ext */
+@font-face {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 600;
+    font-display: optional;
+    src: url("https://cdn.search.brave.com/serp/v1/static/fonts/poppins/b97c5e974f3b69b985366fcbb677b5bddd35bd4a1bf2948e0baa4feb8a606611-latin-ext-normal-600.woff2") format("woff2");
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 600;
+    font-display: optional;
+    src: url("https://cdn.search.brave.com/serp/v1/static/fonts/poppins/de2c7e30b526482d24a41aef7e6bcf0b663748eb3624f74e722b636f45b42689-latin-normal-600.woff2") format("woff2");
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* devanagari */
+@font-face {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 700;
+    font-display: optional;
+    src: url("https://cdn.search.brave.com/serp/v1/static/fonts/poppins/02fb4e06dc8d2ba0905181271098269d98f99212c192515048793c8faf52ca50-devanagari-normal-700.woff2") format("woff2");
+    unicode-range: U+0900-097F, U+1CD0-1CF6, U+1CF8-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB;
+}
+/* latin-ext */
+@font-face {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 700;
+    font-display: optional;
+    src: url("https://cdn.search.brave.com/serp/v1/static/fonts/poppins/3172086c96dfe927a5f3157cb95dd852c7debbf1f80eebd07bd7d9183d79dfd1-latin-ext-normal-700.woff2") format("woff2");
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 700;
+    font-display: optional;
+    src: url("https://cdn.search.brave.com/serp/v1/static/fonts/poppins/e7b59aa327d60ab902437914988d35ee17d7c0c17d5cd2b6485e130e56893f14-latin-normal-700.woff2") format("woff2");
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* devanagari */
+@font-face {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 800;
+    font-display: optional;
+    src: url("https://cdn.search.brave.com/serp/v1/static/fonts/poppins/8e69363498c8997d464bb2c25fbbf2ee80b6468cacb34329afb109b0e258de15-devanagari-normal-800.woff2") format("woff2");
+    unicode-range: U+0900-097F, U+1CD0-1CF6, U+1CF8-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB;
+}
+/* latin-ext */
+@font-face {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 800;
+    font-display: optional;
+    src: url("https://cdn.search.brave.com/serp/v1/static/fonts/poppins/5d87731b3ea5fd19eac3453d8f485ea8b8b8f112054962cbfb3aeb63352bc523-latin-ext-normal-800.woff2") format("woff2");
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 800;
+    font-display: optional;
+    src: url("https://cdn.search.brave.com/serp/v1/static/fonts/poppins/125495151bd9b5b503e50cbc95c75a92e21e9046a59bee6d3e7ceef936a39430-latin-normal-800.woff2") format("woff2");
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* devanagari */
+@font-face {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 900;
+    font-display: optional;
+    src: url("https://cdn.search.brave.com/serp/v1/static/fonts/poppins/4171782036fe0982e29b1ba141f2c1bcbe1dcbfcff2cae02564b26a29c6a31e6-devanagari-normal-900.woff2") format("woff2");
+    unicode-range: U+0900-097F, U+1CD0-1CF6, U+1CF8-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB;
+}
+/* latin-ext */
+@font-face {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 900;
+    font-display: optional;
+    src: url("https://cdn.search.brave.com/serp/v1/static/fonts/poppins/134e9c3f4002728fc5a3ee6f472cdb3376ed97eb63e55280d855080a8845625c-latin-ext-normal-900.woff2") format("woff2");
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 900;
+    font-display: optional;
+    src: url("https://cdn.search.brave.com/serp/v1/static/fonts/poppins/9597f9135ca67824f8d43b3cd2c25051bc12d2d74ca034fd62f7640711a87f79-latin-normal-900.woff2") format("woff2");
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}    </style>
+
+    <style type="text/css">
+      :root {
+    /* Fonts */
+    --brand-font: 'Poppins', arial, sans-serif;
+    --main-font: 'Poppins', arial, sans-serif;
+    --mono-font: Consolas, Menlo, Monaco, monospace;
+    --system-font: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+
+    /* Containers */
+    --main-column-width: 632px;
+    --normal-snippet-width: 600px;
+    --search-form-width: 700px;
+    --search-form-height: 45px;
+
+    /* TODO: Paddings, Margins */
+    --main-content-padding: 175px;
+    --border-radius-xlarge: 16px;
+    --border-radius-large: 12px;
+    --border-radius: 8px;
+    --border-radius-sm: 4px;
+    --border-radius-xs: 2px;
+    --border-radius-0: 0px;
+
+    /* text */
+    --text-sm:  0.66rem;
+    --text-sm-2: 12px;
+    --text-xs:  11px;
+
+    /* blur */
+    --blur: blur(4px);
+}    </style>
+
+        <style type="text/css">
+      :root {
+        /* colors */
+--body-bg: #F2F4F7;
+--bg-01: #ffffff;
+--bg-glassy: #ffffffb3;
+--bg-serp-header: #FAFBFD;
+--bg-1: #EBEEF3;
+--bg-2: #e5e5e5;
+--bg-02: #F8F9FA; /* this is the 02 color from the Brave Design System */
+--bg-3: #f7f3f0;
+--bg-04: #F2F4F7;
+--bg-green: #a7f0ba;
+--bg-blue: #d0e2ff;
+--bg-red: #ffd6e8;
+--bg-inverse: #222;
+--bg-favicon: var(--bg-01);
+--bg-placeholder: #ECEEF2;
+--bg-scrim: rgba(34, 37, 49, 0.40);
+
+--bg-form-control-selected: #E1E2F6;
+--bg-form-control-unselected: #DADCE8;
+--form-control-selected: #4C54D2;
+--form-control-hover: #4C54D2;
+--form-control-focus: #A0A5EB;
+
+/**
+* Search widget styles
+*/
+--search-widget-bg: #F8F9FA;
+
+/**
+* Settings drawer styles
+*/
+--settings-header-bg: #FFFFFF;
+--settings-header-text: #222531;
+--settings-header-icon: #222531;
+--settings-widget-text: #808A9D;
+--settings-item-text: #3F4C63;
+--settings-item-icon: #A1A5E4;
+--settings-item-border: #EFF2F5;
+--settings-item-border-2: #D8DFE8;
+--settings-dark-theme-btn: #343A40;
+--settings-btn-bg: rgba(225, 226, 246, 0.5);
+--settings-btn-text: #4C54D2;
+--settings-widget-outline: #C7CFDC;
+--settings-independent-score: #4C54D2;
+--settings-global-score: #F1724A;
+--settings-label-bg: rgba(218, 220, 232, 0.25);
+--brave-supporter-bg: #EAEEF4;
+--brave-supporter-text: #2267BE;
+
+--context-menu-header-border: #E6E8F5;
+
+--color-primary: #27292f;
+--color-primary-2: #0D0C10;
+--color-primary-3: #212529; /* this variable should go away */
+--color-white: #ffffff;
+--color-gray-2: #828d9f;
+--color-gray-3: #58667E;
+--color-gray-4: #5A626D;
+--color-gray-5: #7E8790; /* this variable should go away */
+--color-gray-6: #CFD6E4;
+--color-gray-7: #58667E;
+--color-green: #0f9d58;
+--color-red: #d23f31;
+--color-blue: #0043ce;
+--info-color: #828D9F; /* Temporary variable name */
+
+--link-primary: #1841d2;
+--link-secondary: #3861FB;
+--link-visited: #9C86F5;
+--snippet-url: #A6B0C3; /* Temporary variable name */
+--snippet-url-netloc: #365fad; /* Temporary variable name */
+
+--separator-dot: #A6B0C3;
+
+/* THEME NEW */
+--theme-purple: #4C54D2;
+--theme-yellow: #F8BE2D;
+
+/* Borders related */
+--border-color: #E2E8ED;
+--border-color-1: #e5e5e5;
+--border-color-favicon: #DEE2F2;
+
+/* Brave UI Design System */
+--text-01: #212529;
+--text-02: #495057;
+--text-03: #868E96;
+--interactive-04: #353DAB;
+--interactive-05: #4C54D2;
+--interactive-06: #737ADE;
+--interactive-07: #212529;
+--interactive-08: #AEB1C2;
+--focus-border: #A0A5EB;
+--divider-01: #E9E9F4;
+--disabled: #DADCE8;
+
+/* Brave UI Design System Derivatives */
+--btn-filled-bg: var(--interactive-05);
+--btn-filled-bg-hover: var(--interactive-04);
+--btn-filled-text-active: rgba(255, 255, 255, 0.7);
+--btn-filled-bg-active: rgba(53, 61, 171, 0.7);
+--btn-filled-text-disabled: #ffff;
+
+--btn-outline-border: var(--interactive-08);
+--btn-outline-border-hover: var(--interactive-05);
+--btn-outline-text: var(--interactive-07);
+--btn-outline-text-hover: var(--interactive-05);
+--btn-outline-text-active: rgba(76, 84, 210, 0.7);
+--btn-outline-border-active: rgba(76, 84, 210, 0.7);
+--btn-outline-text-disabled: #C2C4CF;
+
+--btn-icon-svg-hover: var(--interactive-05);
+--btn-icon-bg-hover: rgba(160, 165, 235, 0.16);
+--btn-icon-svg-active: rgba(76, 84, 210, 0.7);
+
+/* CODE SNIPPETS THEME */
+--code-bg-0: #F8FAFD;
+--code-border: #EFF2F5;
+--code-color-1: #96979D;
+--code-color-2: #58667E;
+--code-color-3: #49964B;
+--code-color-4: #127DB2;
+--code-color-5: #9D2E99;
+
+
+/* SHADOWS */
+--shadow-1: 0 1px 1px 0 rgba(66, 66, 66, 0.08), 0 1px 3px 1px rgba(66, 66, 66, 0.16);
+--shadow-2: 0 1px 6px rgba(32, 33, 36, 0.28);
+--shadow-3: 1px 1px 4px rgba(0,0,0,0.11);      }
+
+      @media (prefers-color-scheme: light) {
+        :root:not(.dark) .theme--dark {
+          display: none !important;
+        }
+      }
+
+      :root.light .theme--dark {
+        display: none !important;
+      }
+
+      @media (prefers-color-scheme: dark) {
+        :root:not(.light) {
+          /* colors */
+--body-bg: #1E2028;
+--bg-01: #242731;
+--bg-glassy: #1A1C23;
+--bg-serp-header: #1A1C23;
+--bg-1: #313543;
+--bg-2: #282828;
+--bg-02: #17171F; /* this is the 02 color from the Brave Design System */
+--bg-3: #1f1f1f;
+--bg-04: #1E2027;
+--bg-green: #a7f0ba;
+--bg-blue: #d0e2ff;
+--bg-red: #ffd6e8;
+--bg-inverse: #ffffff;
+--bg-favicon: #4B5062;
+--bg-placeholder: #2B2E3B;
+--bg-scrim: rgba(34, 37, 49, 0.6);
+
+--bg-form-control-selected: #7679B1;
+--bg-form-control-unselected: #5E6175;
+--form-control-selected: #4436E1;
+--form-control-hover: #D0D2F7;
+--form-control-focus: #A0A5EB;
+
+/**
+* Search widget styles
+*/
+--search-widget-bg: #242731;
+
+/**
+* Settings drawer styles
+*/
+--settings-header-bg: #222531;
+--settings-header-text: #F8FAFD;
+--settings-header-icon: #808A9D;
+--settings-widget-text: #828D9F;
+--settings-item-text: #CFD6E4;
+--settings-item-icon: #A1A5E4;
+--settings-item-border: #2B3445;
+--settings-item-border-2: #3F4C63;
+--settings-dark-theme-btn: #343A40;
+--settings-btn-bg: #3A3F55;
+--settings-btn-text: #CFD6E4;
+--settings-widget-outline: #3F4C63;
+--settings-independent-score: #7078FF;
+--settings-global-score: #FF845D;
+--settings-label-bg: rgba(58, 63, 85, 0.7);
+--brave-supporter-bg: #252730;
+--brave-supporter-text: #2267BE;
+
+--context-menu-header-border: #58667E;
+
+--color-primary: #c9d4dc;
+--color-primary-2: #bcbcbc;
+--color-primary-3: #c9d4dc; /* this variable should go away */
+--color-white: #ffffff;
+--color-gray-2: #a6b0c3;
+--color-gray-3: #A6B0C3;
+--color-gray-4: #7E8790;
+--color-gray-5: #7E8790; /* this variable should go away */
+--color-gray-6: #828d9f;
+--color-gray-7: #828d9f; /* new variable since light theme is different than color-gray-6's */
+--color-green: #0f9d58;
+--color-red: #d23f31;
+--color-blue: #0043ce;
+--info-color: #828D9F; /* Temporary variable name */
+
+--link-primary: #EFF2F5;
+--link-secondary: #CFD6E4;
+--link-visited: #A0A5EB;
+--snippet-url: #6E798D; /* Temporary variable name */
+--snippet-url-netloc: #7d95bb; /* Temporary variable name */
+
+--separator-dot: #808a9d;
+
+/* THEME NEW */
+--theme-purple: #7675fd;
+--theme-yellow: #F8BE2D;
+
+/* Borders related */
+--border-color: #333;
+--border-color-1: #272626;
+--border-color-favicon: #545761;
+
+/* Brave UI Design System */
+--blurple-300: #A0A5EB;
+--text-01: #F8FAFD;
+--text-02: #C2C4CF;
+--text-03: #84889C;
+--interactive-04: #353DAB;
+--interactive-05: #4C54D2;
+--interactive-06: #737ADE;
+--interactive-07: #F0F2FF;
+--interactive-08: #5E6175;
+--focus-border: #555889;
+--divider-01: #3B3E4F;
+--disabled: #343A40;
+
+/* Brave UI Design System Derivatives */
+--btn-filled-bg: var(--interactive-05);
+--btn-filled-bg-hover: var(--interactive-06);
+--btn-filled-text-active: rgba(255, 255, 255, 0.7);
+--btn-filled-bg-active: rgba(115, 122, 222, 0.7);
+--btn-filled-text-disabled: #677078;
+
+--btn-outline-border: var(--interactive-08);
+--btn-outline-border-hover: var(--interactive-06);
+--btn-outline-text: var(--interactive-07);
+--btn-outline-text-hover: var(--blurple-300);
+--btn-outline-text-active: rgba(160, 165, 235, 0.7);
+--btn-outline-border-active: rgba(115, 122, 222, 0.7);
+--btn-outline-text-disabled: #495057;
+
+--btn-icon-svg-hover: var(--blurple-300);
+--btn-icon-bg-hover: rgba(160, 165, 235, 0.32);
+--btn-icon-svg-active: rgba(160, 165, 235, 0.7);
+
+/* CODE SNIPPETS THEME */
+--code-bg-0: #2F313C;
+--code-border: #22232A;
+--code-color-1: #525964;
+--code-color-2: #ACBBD5;
+--code-color-3: #7FA569;
+--code-color-4: #5198D4;
+--code-color-5: #B26AC7;
+
+
+/* SHADOWS */
+--shadow-1: 0 1px 1px 0 rgba(66, 66, 66, 0.08), 0 1px 3px 1px rgba(66, 66, 66, 0.16);
+--shadow-2: 0 1px 6px rgba(32, 33, 36, 0.28);
+--shadow-3: 1px 1px 4px rgba(0,0,0,0.11);        }
+
+        :root:not(.light) .theme--light {
+          display: none !important;
+        }
+      }
+
+      :root.dark {
+        /* colors */
+--body-bg: #1E2028;
+--bg-01: #242731;
+--bg-glassy: #1A1C23;
+--bg-serp-header: #1A1C23;
+--bg-1: #313543;
+--bg-2: #282828;
+--bg-02: #17171F; /* this is the 02 color from the Brave Design System */
+--bg-3: #1f1f1f;
+--bg-04: #1E2027;
+--bg-green: #a7f0ba;
+--bg-blue: #d0e2ff;
+--bg-red: #ffd6e8;
+--bg-inverse: #ffffff;
+--bg-favicon: #4B5062;
+--bg-placeholder: #2B2E3B;
+--bg-scrim: rgba(34, 37, 49, 0.6);
+
+--bg-form-control-selected: #7679B1;
+--bg-form-control-unselected: #5E6175;
+--form-control-selected: #4436E1;
+--form-control-hover: #D0D2F7;
+--form-control-focus: #A0A5EB;
+
+/**
+* Search widget styles
+*/
+--search-widget-bg: #242731;
+
+/**
+* Settings drawer styles
+*/
+--settings-header-bg: #222531;
+--settings-header-text: #F8FAFD;
+--settings-header-icon: #808A9D;
+--settings-widget-text: #828D9F;
+--settings-item-text: #CFD6E4;
+--settings-item-icon: #A1A5E4;
+--settings-item-border: #2B3445;
+--settings-item-border-2: #3F4C63;
+--settings-dark-theme-btn: #343A40;
+--settings-btn-bg: #3A3F55;
+--settings-btn-text: #CFD6E4;
+--settings-widget-outline: #3F4C63;
+--settings-independent-score: #7078FF;
+--settings-global-score: #FF845D;
+--settings-label-bg: rgba(58, 63, 85, 0.7);
+--brave-supporter-bg: #252730;
+--brave-supporter-text: #2267BE;
+
+--context-menu-header-border: #58667E;
+
+--color-primary: #c9d4dc;
+--color-primary-2: #bcbcbc;
+--color-primary-3: #c9d4dc; /* this variable should go away */
+--color-white: #ffffff;
+--color-gray-2: #a6b0c3;
+--color-gray-3: #A6B0C3;
+--color-gray-4: #7E8790;
+--color-gray-5: #7E8790; /* this variable should go away */
+--color-gray-6: #828d9f;
+--color-gray-7: #828d9f; /* new variable since light theme is different than color-gray-6's */
+--color-green: #0f9d58;
+--color-red: #d23f31;
+--color-blue: #0043ce;
+--info-color: #828D9F; /* Temporary variable name */
+
+--link-primary: #EFF2F5;
+--link-secondary: #CFD6E4;
+--link-visited: #A0A5EB;
+--snippet-url: #6E798D; /* Temporary variable name */
+--snippet-url-netloc: #7d95bb; /* Temporary variable name */
+
+--separator-dot: #808a9d;
+
+/* THEME NEW */
+--theme-purple: #7675fd;
+--theme-yellow: #F8BE2D;
+
+/* Borders related */
+--border-color: #333;
+--border-color-1: #272626;
+--border-color-favicon: #545761;
+
+/* Brave UI Design System */
+--blurple-300: #A0A5EB;
+--text-01: #F8FAFD;
+--text-02: #C2C4CF;
+--text-03: #84889C;
+--interactive-04: #353DAB;
+--interactive-05: #4C54D2;
+--interactive-06: #737ADE;
+--interactive-07: #F0F2FF;
+--interactive-08: #5E6175;
+--focus-border: #555889;
+--divider-01: #3B3E4F;
+--disabled: #343A40;
+
+/* Brave UI Design System Derivatives */
+--btn-filled-bg: var(--interactive-05);
+--btn-filled-bg-hover: var(--interactive-06);
+--btn-filled-text-active: rgba(255, 255, 255, 0.7);
+--btn-filled-bg-active: rgba(115, 122, 222, 0.7);
+--btn-filled-text-disabled: #677078;
+
+--btn-outline-border: var(--interactive-08);
+--btn-outline-border-hover: var(--interactive-06);
+--btn-outline-text: var(--interactive-07);
+--btn-outline-text-hover: var(--blurple-300);
+--btn-outline-text-active: rgba(160, 165, 235, 0.7);
+--btn-outline-border-active: rgba(115, 122, 222, 0.7);
+--btn-outline-text-disabled: #495057;
+
+--btn-icon-svg-hover: var(--blurple-300);
+--btn-icon-bg-hover: rgba(160, 165, 235, 0.32);
+--btn-icon-svg-active: rgba(160, 165, 235, 0.7);
+
+/* CODE SNIPPETS THEME */
+--code-bg-0: #2F313C;
+--code-border: #22232A;
+--code-color-1: #525964;
+--code-color-2: #ACBBD5;
+--code-color-3: #7FA569;
+--code-color-4: #5198D4;
+--code-color-5: #B26AC7;
+
+
+/* SHADOWS */
+--shadow-1: 0 1px 1px 0 rgba(66, 66, 66, 0.08), 0 1px 3px 1px rgba(66, 66, 66, 0.16);
+--shadow-2: 0 1px 6px rgba(32, 33, 36, 0.28);
+--shadow-3: 1px 1px 4px rgba(0,0,0,0.11);      }
+
+      :root.dark .theme--light {
+        display: none !important;
+      }
+    </style>
+
+    <link rel="icon" href="https://cdn.search.brave.com/serp/v1/static/brand/d6a7857f7f3c2d5e1a55d27a8e25b39a31c4c5d093ff479aeb1b99d0faca5c71-favicon.ico">
+    <link rel="stylesheet" href="./paranteza_files/e33f6709fff95027f7d6fd7b9b270541734ec5fa159a4bff81b2b5155fc1b75f-search-with-background.css">
+  <link href="./paranteza_files/6cedc56d016eced794b0f6391565851f7194212341117ee82dbb5500a7246a36-spectre.min.css" rel="stylesheet">
+  <link href="./paranteza_files/390cc12775c919ff6456c4385669c0f33bf1bec975b5343747711707caa17f93-icons.css" rel="stylesheet">
+  <link href="./paranteza_files/2948a33d1005b68c7c78376c61f5394adb719e105e76e06ac80ded4bda9b80c7-search.css" rel="stylesheet">
+  <link href="./paranteza_files/c5eb9b738b718c8bc851beb853093c4aa737d126b47c5225e20ac2ec2569613a-main.bundle.css" rel="stylesheet">
+  <link href="./paranteza_files/604254e172fc15ac84af281b9ce81dbd2e5896dc1272ddd107900ec9a1a9b263-main.bundle.css" rel="stylesheet">
+  <link href="./paranteza_files/a93f42ab66c8235533385cc0a12c8fd3a724fc469c13994b1bd8fe7a88239280-main.bundle.css" rel="stylesheet">
+  <link href="./paranteza_files/6cb465dbc4657437d8a925b0919210232d331b125e1aaf5c39069b2fc8e22394-main.bundle.css" rel="stylesheet">
+  <link href="./paranteza_files/9f72ba23cca41c2232c8405fac7b3f5e088df14a700cb628dddb43ded194efab-main.bundle.css" rel="stylesheet">
+  <link href="./paranteza_files/d9f3b4f0a646070da2c34bfe269233b4133bfc48bd56a21eb9be0347d88da033-main.bundle.css" rel="stylesheet">
+  <link href="./paranteza_files/1bc6f8d0de2e7b021c49eaf98a381dfa7b676cb5e390171336fb58dc794c29ed-main.bundle.css" rel="stylesheet">
+  </head>
+
+  <body class="is-pc floating-header">
+    <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" style="height: 0; position: absolute; width: 0;">
+      <defs>
+        <lineargradient id="gradient02-alt" x1="13.5864" y1="14.8691" x2="-1.81487" y2="4.18618" gradientUnits="userSpaceOnUse">
+          <stop stop-color="#6F4CD2"></stop>
+          <stop offset="0.5625" stop-color="#BF14A2"></stop>
+          <stop offset="1" stop-color="#F73A1C"></stop>
+        </lineargradient>
+      </defs>
+  </svg>
+    <div id="paid"></div>
+
+    <header id="site-header" class="navbar has-js">
+  <!-- backdrop-filter does not seem to work properly in Firefox see: https://bugzilla.mozilla.org/show_bug.cgi?id=1591674 -->
+    <div class="flex" style="justify-content: space-between;">
+    <div class="flex">
+    <a id="nav-logo" href="https://search.brave.com/" class="btn btn-link">
+      <img alt="Brave logo" class="logo-large theme--dark" title="Brave Search" src="./paranteza_files/7f6c965d757370cc4448eded114b6bac854675e6495a28140b625aa019135f7f-brave-logo-light-beta.svg">
+      <img alt="Brave logo" class="logo-large theme--light" title="Brave Search" src="./paranteza_files/741b09e413cc6789ca3ff1da8ab8a8e4939add50509bb42bf42fbdbae72e93a7-brave-logo-dark-beta.svg">
+      <img alt="Brave logo" class="logo-small theme--dark" title="Brave Search" src="./paranteza_files/a2b1e98a3e01448c617c0003142eea546e4be1b293618ec17096877d521eb65a-brave-logo-small-light-beta.svg">
+      <img alt="Brave logo" class="logo-small theme--light" title="Brave Search" src="./paranteza_files/953d74d9275b8fcb12caab7a67293491cc2c97d719a2a380931d321c7fcb4ac0-brave-logo-small-dark-beta.svg">
+    </a>
+    <div class="searchform-container">
+  <form class="form" action="https://search.brave.com/images" method="GET" id="searchform">
+        <span id="search-icon" class="no-display">
+      <svg width="15" height="15" viewBox="0 0 17 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M6.57212 13.1442C2.94254 13.1442 0 10.2016 0 6.57173C0 2.94248 2.94268 0 6.57212 0C10.2016 0 13.1442 2.94248 13.1442 6.57173C13.1442 8.05658 12.6519 9.42642 11.8215 10.5269L16.3528 15.0581C16.7103 15.4156 16.7103 15.9952 16.3528 16.3527C15.9953 16.7102 15.4157 16.7102 15.0582 16.3527L10.527 11.8215C9.42657 12.6519 8.05682 13.1442 6.57212 13.1442ZM6.57212 11.2665C3.97956 11.2665 1.87775 9.16463 1.87775 6.57184C1.87775 3.97952 3.97966 1.87775 6.57212 1.87775C9.16458 1.87775 11.2665 3.97952 11.2665 6.57184C11.2665 9.16463 9.16468 11.2665 6.57212 11.2665Z" fill="#C2C4CF"></path>
+      </svg>
+    </span>
+    <div class="searchbox-wrapper">
+      <input id="searchbox" type="text" class="form-input" placeholder="Search the web privately…" name="q" value="programming" autocapitalize="off" autocomplete="off" autocorrect="off" spellcheck="false" aria-label="Search" title="Search" aria-autocomplete="both" aria-haspopup="false" maxlength="2048">
+    </div>
+    <input name="source" value="web" type="hidden">
+        <button id="submit-button" class="btn btn--filled input-group-btn">
+      <svg width="17" height="17" viewBox="0 0 17 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M6.57212 13.1442C2.94254 13.1442 0 10.2016 0 6.57173C0 2.94248 2.94268 0 6.57212 0C10.2016 0 13.1442 2.94248 13.1442 6.57173C13.1442 8.05658 12.6519 9.42642 11.8215 10.5269L16.3528 15.0581C16.7103 15.4156 16.7103 15.9952 16.3528 16.3527C15.9953 16.7102 15.4157 16.7102 15.0582 16.3527L10.527 11.8215C9.42657 12.6519 8.05682 13.1442 6.57212 13.1442ZM6.57212 11.2665C3.97956 11.2665 1.87775 9.16463 1.87775 6.57184C1.87775 3.97952 3.97966 1.87775 6.57212 1.87775C9.16458 1.87775 11.2665 3.97952 11.2665 6.57184C11.2665 9.16463 9.16468 11.2665 6.57212 11.2665Z" fill="url(#paint0_linear)"></path>
+        <defs>
+          <lineargradient id="paint0_linear" x1="16.6209" y1="16.6208" x2="-1.90605" y2="3.18655" gradientUnits="userSpaceOnUse">
+          <stop stop-color="#BF14A2"></stop>
+          <stop offset="1" stop-color="#F73A1C"></stop>
+          </lineargradient>
+        </defs>
+      </svg>
+    </button>
+      <div id="clear-query-button" class="btn svelte-mkobes"><svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg" class="svelte-mkobes"><path fill-rule="evenodd" clip-rule="evenodd" d="M2.06834 13.4173C1.68757 13.7981 1.07024 13.7981 0.689477 13.4173C0.308716 13.0365 0.308716 12.4192 0.689477 12.0384L5.67424 7.05368L0.688891 2.06833C0.30813 1.68757 0.30813 1.07023 0.688891 0.68947C1.06965 0.308709 1.68699 0.308709 2.06775 0.68947L7.0531 5.67482L12.0385 0.68938C12.4193 0.308618 13.0366 0.308618 13.4174 0.689379C13.7982 1.07014 13.7982 1.68748 13.4174 2.06824L8.43196 7.05368L13.4168 12.0385C13.7976 12.4193 13.7976 13.0366 13.4168 13.4174C13.0361 13.7982 12.4187 13.7982 12.038 13.4174L7.0531 8.43254L2.06834 13.4173Z" fill="#BCC7D2" class="svelte-mkobes"></path></svg></div> <div id="autocomplete" class=" svelte-mkobes"></div></form>
+</div>    </div>
+    <div id="settings"><div class="settings wrapper svelte-sb91gf"> <button id="settings-button" class="btn btn--icon btn--sm svelte-sb91gf"><svg class="icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 25 24"><path d="M15.15 4.546a1.695 1.695 0 00-2.315.62l-.45.78c-.045.078-.157.156-.325.156-.169 0-.28-.078-.325-.156l-.45-.78a1.695 1.695 0 00-2.315-.62L7.15 5.597a1.695 1.695 0 00-.62 2.315l.45.779c.044.079.056.213-.028.358-.086.148-.21.206-.299.206h-.899c-.936 0-1.694.758-1.694 1.694v2.102c0 .936.758 1.694 1.694 1.694h.9c.088 0 .212.058.298.206.084.145.072.28.027.358l-.45.779c-.468.81-.19 1.847.62 2.315l1.82 1.05c.811.469 1.848.19 2.316-.62l.45-.779c.045-.078.156-.156.325-.156.168 0 .28.078.325.156l.45.78a1.695 1.695 0 002.315.62l1.82-1.051a1.695 1.695 0 00.62-2.315l-.45-.779c-.045-.079-.056-.213.028-.358.085-.148.21-.206.298-.206h.9c.935 0 1.694-.758 1.694-1.694v-2.102c0-.936-.759-1.694-1.695-1.694h-.899c-.088 0-.213-.058-.298-.206-.084-.145-.073-.28-.028-.358l.45-.779c.468-.81.19-1.847-.62-2.315l-1.82-1.05zm-1.2 1.264a.407.407 0 01.556-.149l1.82 1.051a.407.407 0 01.15.556l-.45.78c-.313.541-.247 1.171.027 1.646.273.471.786.848 1.413.848h.9c.224 0 .406.182.406.407v2.102a.407.407 0 01-.407.407h-.899c-.627 0-1.14.377-1.413.848-.274.475-.34 1.105-.027 1.647l.45.779a.407.407 0 01-.15.556l-1.82 1.05a.407.407 0 01-.556-.148l-.45-.78c-.313-.542-.893-.8-1.44-.8-.547 0-1.127.258-1.44.8l-.45.78a.407.407 0 01-.556.149l-1.82-1.051a.407.407 0 01-.15-.556l.45-.78c.313-.541.247-1.171-.028-1.646-.273-.471-.785-.848-1.413-.848h-.899a.407.407 0 01-.407-.407v-2.102c0-.225.182-.407.407-.407h.9c.627 0 1.14-.377 1.412-.848.275-.475.34-1.105.028-1.647l-.45-.779a.407.407 0 01.15-.556l1.82-1.05a.407.407 0 01.556.148l.45.78c.313.542.893.8 1.44.8.547 0 1.127-.258 1.44-.8l.45-.78zm-3.545 6.179a1.655 1.655 0 113.31 0 1.655 1.655 0 01-3.31 0zm1.655-2.943a2.943 2.943 0 100 5.885 2.943 2.943 0 000-5.885z"></path></svg></button> </div></div>
+  </div>
+  </header>
+<div class=" border-bottom" id="navbar-tabs">
+  <div class="container-80">
+    
+<div id="nav-tabs">
+  <ul class="tab tab-block">
+              <li class="tab-item">
+       <a href="https://search.brave.com/search?q=programming">
+        <span class="mr-5 icon-wrapper">
+          <svg class="icon" xmlns="http://www.w3.org/2000/svg" width="18" height="17" viewBox="0 0 18 17"><path fill-rule="evenodd" d="M1.6 7.336a5.736 5.736 0 1 1 11.471 0 5.736 5.736 0 0 1-11.471 0ZM7.336 0a7.336 7.336 0 1 0 4.957 12.743l3.56 3.561a.8.8 0 0 0 1.132-1.131l-3.636-3.636A7.336 7.336 0 0 0 7.335 0Z" clip-rule="evenodd"></path></svg>        </span>
+        <span>
+          All
+        </span>
+      </a>
+    </li>
+
+          <li class="tab-item active">
+       <a href="https://search.brave.com/images?q=programming">
+        <span class="mr-5 icon-wrapper">
+          <svg class="icon" width="17" height="17" viewBox="0 0 17 17" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M12.492 2.093h-8a2.6 2.6 0 00-2.6 2.6v8a2.6 2.6 0 002.6 2.6h8a2.6 2.6 0 002.6-2.6v-8a2.6 2.6 0 00-2.6-2.6zm-8-1.4a4 4 0 00-4 4v8a4 4 0 004 4h8a4 4 0 004-4v-8a4 4 0 00-4-4h-8zm5.46 7.048a.7.7 0 01.514.156l2.971 2.447a.7.7 0 01-.89 1.08L10.12 9.427l-2.172 2.676a.7.7 0 01-1.001.088l-1.142-.987L4.55 12.86a.7.7 0 01-1.116-.845L5.14 9.763a.7.7 0 011.016-.107l1.16 1.003 2.162-2.663a.7.7 0 01.473-.255zM4.34 5.291a.5.5 0 111 0 .5.5 0 01-1 0zm.5-1.5a1.5 1.5 0 100 3 1.5 1.5 0 000-3z"></path></svg>        </span>
+        <span>
+          Images
+        </span>
+      </a>
+    </li>
+
+          <li class="tab-item">
+       <a href="https://search.brave.com/news?q=programming">
+        <span class="mr-5 icon-wrapper">
+          <svg class="icon" width="17" height="17" viewBox="0 0 17 17" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M12.317 2.093h-.225a.8.8 0 00-.575.768v2.133h3.022a.575.575 0 00.378-.14v-.161a2.6 2.6 0 00-2.6-2.6zm0-1.4c.685 0 1.33.172 1.893.475a3.556 3.556 0 012.104 3.359c.002.055.003.11.003.166v8a4 4 0 01-4 4h-8a4 4 0 01-4-4v-8a4 4 0 014-4h8zm2.222 5.501c.13 0 .256-.014.378-.04v6.539a2.6 2.6 0 01-2.6 2.6h-8a2.6 2.6 0 01-2.6-2.6v-8a2.6 2.6 0 012.6-2.6h6.153a1.994 1.994 0 00-.153.768v2.333a1 1 0 001 1h3.222zM3.615 4.808a.6.6 0 000 1.2h4a.6.6 0 000-1.2h-4zm-.6 2.937a.6.6 0 01.6-.6h8a.6.6 0 110 1.2h-8a.6.6 0 01-.6-.6zm.6 1.866a.6.6 0 000 1.2h8a.6.6 0 000-1.2h-8z"></path></svg>        </span>
+        <span>
+          News
+        </span>
+      </a>
+    </li>
+
+          <li class="tab-item">
+       <a href="https://search.brave.com/videos?q=programming">
+        <span class="mr-5 icon-wrapper">
+          <svg class="icon" width="16" height="17" viewBox="0 0 16 17" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M10.283 1.408h2.161c.2 0 .395.026.58.073L10.296 4.21H7.483l2.78-2.78a.462.462 0 00.02-.02zm-1.507 0H6.067a.544.544 0 01-.02.022l-2.78 2.78h2.708l2.8-2.802zM1.759 4.21l2.8-2.8H3.557a2.311 2.311 0 00-2.312 2.31v.49h.515zm10.046 0h2.95v-.49c0-.676-.29-1.284-.753-1.707L11.805 4.21zM1.245 5.454h13.51v7.154a2.311 2.311 0 01-2.31 2.311h-8.89a2.311 2.311 0 01-2.31-2.31V5.453zM0 3.719A3.556 3.556 0 013.556.164h8.888A3.556 3.556 0 0116 3.719v8.89a3.556 3.556 0 01-3.556 3.555H3.556A3.556 3.556 0 010 12.608V3.72zm7.22 8.674l2.933-1.694a.978.978 0 000-1.693L7.22 7.312a.978.978 0 00-1.466.847v3.387a.978.978 0 001.466.847zm-.222-3.772l2.133 1.232-2.133 1.231V8.621z" clip-rule="evenodd"></path></svg>        </span>
+        <span>
+          Videos
+        </span>
+      </a>
+    </li>
+
+    
+      </ul>
+  <div class="flex-hcenter">
+    <div id="tools-info"><button class="btn btn--text btn--sm svelte-amqj0r">Info</button></div>
+    <div id="feedback"><div id="page-feedback" class="svelte-mpw268"> <div class="feedback-controls svelte-mpw268"><div class="flex-hcenter"><button class="btn btn--text btn--sm">Feedback</button></div></div></div> </div>
+  </div>
+  </div>  </div>
+</div>
+
+<div class="">
+  <div class="container-80">
+    <div id="search-filters"><div id="filters-bar" class="svelte-8kf7xq"><div id="filters-bar-child" class="svelte-8kf7xq" style="display: inherit;"><div class="filter svelte-sjpi2l"><button id="country" class="btn btn--text btn--sm dropdown-toggle text-sm svelte-sjpi2l"><span class="filter-name svelte-sjpi2l">All regions</span> <svg class="icon" xmlns="http://www.w3.org/2000/svg" width="13" height="8" viewBox="0 0 13 8"><path fill-rule="evenodd" d="M7.618 6.972a1.2 1.2 0 01-1.697 0L1.204 2.254a.8.8 0 011.132-1.131L6.77 5.557l4.434-4.434a.8.8 0 011.132 1.131L7.618 6.972z" clip-rule="evenodd"></path></svg></button> </div> <div class="filter svelte-sjpi2l"><button id="safe-search" class="btn btn--text btn--sm dropdown-toggle text-sm svelte-sjpi2l"><span class="filter-name svelte-sjpi2l">Safe search: Moderate</span> <svg class="icon" xmlns="http://www.w3.org/2000/svg" width="13" height="8" viewBox="0 0 13 8"><path fill-rule="evenodd" d="M7.618 6.972a1.2 1.2 0 01-1.697 0L1.204 2.254a.8.8 0 011.132-1.131L6.77 5.557l4.434-4.434a.8.8 0 011.132 1.131L7.618 6.972z" clip-rule="evenodd"></path></svg></button> </div> <div class="filter svelte-sjpi2l"><button id="sizes" class="btn btn--text btn--sm dropdown-toggle text-sm svelte-sjpi2l"><span class="filter-name svelte-sjpi2l">Small</span> <svg class="icon" xmlns="http://www.w3.org/2000/svg" width="13" height="8" viewBox="0 0 13 8"><path fill-rule="evenodd" d="M7.618 6.972a1.2 1.2 0 01-1.697 0L1.204 2.254a.8.8 0 011.132-1.131L6.77 5.557l4.434-4.434a.8.8 0 011.132 1.131L7.618 6.972z" clip-rule="evenodd"></path></svg></button> </div> <div class="filter svelte-sjpi2l"><button id="types" class="btn btn--text btn--sm dropdown-toggle text-sm svelte-sjpi2l"><span class="filter-name svelte-sjpi2l">All types</span> <svg class="icon" xmlns="http://www.w3.org/2000/svg" width="13" height="8" viewBox="0 0 13 8"><path fill-rule="evenodd" d="M7.618 6.972a1.2 1.2 0 01-1.697 0L1.204 2.254a.8.8 0 011.132-1.131L6.77 5.557l4.434-4.434a.8.8 0 011.132 1.131L7.618 6.972z" clip-rule="evenodd"></path></svg></button> </div> <div class="filter svelte-sjpi2l"><button id="layouts" class="btn btn--text btn--sm dropdown-toggle text-sm svelte-sjpi2l"><span class="filter-name svelte-sjpi2l">All layouts</span> <svg class="icon" xmlns="http://www.w3.org/2000/svg" width="13" height="8" viewBox="0 0 13 8"><path fill-rule="evenodd" d="M7.618 6.972a1.2 1.2 0 01-1.697 0L1.204 2.254a.8.8 0 011.132-1.131L6.77 5.557l4.434-4.434a.8.8 0 011.132 1.131L7.618 6.972z" clip-rule="evenodd"></path></svg></button> </div> <div class="filter svelte-sjpi2l"><button id="colors" class="btn btn--text btn--sm dropdown-toggle text-sm svelte-sjpi2l"><span class="filter-name svelte-sjpi2l">Black and white</span> <svg class="icon" xmlns="http://www.w3.org/2000/svg" width="13" height="8" viewBox="0 0 13 8"><path fill-rule="evenodd" d="M7.618 6.972a1.2 1.2 0 01-1.697 0L1.204 2.254a.8.8 0 011.132-1.131L6.77 5.557l4.434-4.434a.8.8 0 011.132 1.131L7.618 6.972z" clip-rule="evenodd"></path></svg></button> </div> <div class="filter svelte-sjpi2l"><button id="license" class="btn btn--text btn--sm dropdown-toggle text-sm svelte-sjpi2l"><span class="filter-name svelte-sjpi2l">All licenses</span> <svg class="icon" xmlns="http://www.w3.org/2000/svg" width="13" height="8" viewBox="0 0 13 8"><path fill-rule="evenodd" d="M7.618 6.972a1.2 1.2 0 01-1.697 0L1.204 2.254a.8.8 0 011.132-1.131L6.77 5.557l4.434-4.434a.8.8 0 011.132 1.131L7.618 6.972z" clip-rule="evenodd"></path></svg></button> </div> </div> </div></div>
+  </div>
+</div>
+<main>
+
+  <style>
+    main {
+      min-width: 100% !important;
+      overflow-x: unset !important;
+    }
+    #img-results {
+      width: 100%;
+      padding: 1rem;
+      padding-top: 0;
+      margin-top: 15px;
+      min-height: calc(100vh - 3rem);
+    }
+  </style>
+  <div id="img-results">
+    <noscript>
+      <p style="margin-top: 3rem; margin-left: 175px;">This page needs JavaScript enabled to function.</p>
+    </noscript>
+  <div id="img-holder"> <div class="justified svelte-173fezi"><div class="box svelte-173fezi" style="width: 201.7739635960966px; height: 201.7739635960966px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(102, 102, 102); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th.jpg" alt=""> <div class="dimensions svelte-qd248k">128 × 128</div> </div></div> <a href="https://www.freepik.com/free-icon/programming-code-signs_782219.htm" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Programming code signs Icons | Free Download</span> <span class="img-source text-ellipsis svelte-173fezi">Freepik</span></a> </div><div class="box svelte-173fezi" style="width: 201.7739635960966px; height: 201.7739635960966px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(57, 57, 57); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(1).jpg" alt=""> <div class="dimensions svelte-qd248k">180 × 180</div> </div></div> <a href="https://dir.indiamart.com/thane/c-programming-courses.html" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">C Programming Courses in Thane, सी प्रोग्रामिंग कोर्स, ठाणे</span> <span class="img-source text-ellipsis svelte-173fezi">IndiaMART</span></a> </div><div class="box svelte-173fezi" style="width: 187.21295591390407px; height: 201.7739635960966px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(41, 41, 41); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(2).jpg" alt=""> <div class="dimensions svelte-qd248k">180 × 194</div> </div></div> <a href="https://www.fotosearch.com/illustration/computer-programming.html" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Computer Programming Illustrations | Our Top 1000+ Computer Programming Stock Art | Fotosearch</span> <span class="img-source text-ellipsis svelte-173fezi">Fotosearch</span></a> </div><div class="box svelte-173fezi" style="width: 201.7739635960966px; height: 201.7739635960966px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(102, 102, 102); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(3).jpg" alt=""> <div class="dimensions svelte-qd248k">169 × 169</div> </div></div> <a href="https://www.researchgate.net/figure/Architecture-of-Event-driven-Programming-Model_fig1_323279886" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Architecture of Event-driven Programming Model | Download Scientific Diagram</span> <span class="img-source text-ellipsis svelte-173fezi">ResearchGate</span></a> </div><div class="box svelte-173fezi" style="width: 186.1728839366046px; height: 201.7739635960966px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(42, 42, 42); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(4).jpg" alt=""> <div class="dimensions svelte-qd248k">179 × 194</div> </div></div> <a href="https://www.fotosearch.com/illustration/computer-programming.html" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Computer Programming Illustrations | Our Top 1000+ Computer Programming Stock Art | Fotosearch</span> <span class="img-source text-ellipsis svelte-173fezi">Fotosearch</span></a> </div><div class="box svelte-173fezi" style="width: 385.74434216900823px; height: 201.7739635960966px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(101, 102, 102); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(5).jpg" alt=""> <div class="dimensions svelte-qd248k">65 × 34</div> </div></div> <a href="https://www.programmingboss.com/" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Programming Boss: Programming for Beginners</span> <span class="img-source text-ellipsis svelte-173fezi">programmingboss.com</span></a> </div><div class="box svelte-173fezi" style="width: 201.7739635960966px; height: 201.7739635960966px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(0, 0, 0); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(6).jpg" alt=""> <div class="dimensions svelte-qd248k">172 × 172</div> </div></div> <a href="http://www.wellho.net/mouth/2700_The-same-very-simple-program-in-many-different-programming-languages.html" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">The same very simple program in many different programming languages</span> <span class="img-source text-ellipsis svelte-173fezi">wellho.net</span></a> </div><div class="box svelte-173fezi" style="width: 201.7739635960966px; height: 201.7739635960966px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(102, 102, 102); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(7).jpg" alt=""> <div class="dimensions svelte-qd248k">150 × 150</div> </div></div> <a href="https://www.virtualemployee.com/article/top-five-reasons-for-businesses-to-outsource-their-hr-processes" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Outsourcing HR Functions – Top Five Reasons</span> <span class="img-source text-ellipsis svelte-173fezi">virtualemployee.com</span></a> </div><div class="box svelte-173fezi" style="width: 389.44880246836044px; height: 190.24797821730252px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(102, 102, 102); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(8).jpg" alt=""> <div class="dimensions svelte-qd248k">174 × 85</div> </div></div> <a href="https://en.wikipedia.org/wiki/Parametric_programming" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Parametric programming - Wikipedia, the free encyclopedia</span> <span class="img-source text-ellipsis svelte-173fezi">en.wikipedia.org</span></a> </div><div class="box svelte-173fezi" style="width: 175.53808299431523px; height: 190.24797821730252px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(43, 43, 43); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(9).jpg" alt=""> <div class="dimensions svelte-qd248k">179 × 194</div> </div></div> <a href="https://www.fotosearch.com/illustration/computer-programming.html" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Computer Programming Illustrations | Our Top 1000+ Computer Programming Stock Art | Fotosearch</span> <span class="img-source text-ellipsis svelte-173fezi">Fotosearch</span></a> </div><div class="box svelte-173fezi" style="width: 190.24797821730252px; height: 190.24797821730252px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(102, 102, 102); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(10).jpg" alt=""> <div class="dimensions svelte-qd248k">128 × 128</div> </div></div> <a href="https://iconscout.com/icons/programming-language" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Programming Language icons - 100+ Free SVG and PNG - Iconscout</span> <span class="img-source text-ellipsis svelte-173fezi">iconscout.com</span></a> </div><div class="box svelte-173fezi" style="width: 179.89434674969422px; height: 190.24797821730252px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(0, 0, 0); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(11).jpg" alt=""> <div class="dimensions svelte-qd248k">139 × 147</div> </div></div> <a href="https://v8doc.sas.com/sashtml/iml/chap8/sect12.htm" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Example 8.10: Quadratic Programming</span> <span class="img-source text-ellipsis svelte-173fezi">v8doc.sas.com</span></a> </div><div class="box svelte-173fezi" style="width: 190.24797821730252px; height: 190.24797821730252px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(102, 102, 102); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(12).jpg" alt=""> <div class="dimensions svelte-qd248k">128 × 128</div> </div></div> <a href="https://computersciencewiki.org/index.php/Object-Oriented_Programming" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Object-Oriented Programming - Computer Science Wiki</span> <span class="img-source text-ellipsis svelte-173fezi">computersciencewiki.org</span></a> </div><div class="box svelte-173fezi" style="width: 462.3748331357226px; height: 190.24797821730252px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(102, 102, 102); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(13).jpg" alt=""> <div class="dimensions svelte-qd248k">192 × 79</div> </div></div> <a href="https://edurev.in/course/quiz/attempt/-1_Test-Scratch-Programming/f1ae0e35-7afe-464b-8132-31b400e9dea1" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Test: Scratch Programming | 15 Questions MCQ Test</span> <span class="img-source text-ellipsis svelte-173fezi">edurev.in</span></a> </div><div class="box svelte-173fezi" style="width: 190.24797821730252px; height: 190.24797821730252px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(0, 0, 0); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(14).jpg" alt=""> <div class="dimensions svelte-qd248k">150 × 150</div> </div></div> <a href="https://belief-driven-design.com/functional-programming-with-java-exception-handling-e69997c11d3/" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Functional Programming With Java: Exception Handling - belief-driven-design</span> <span class="img-source text-ellipsis svelte-173fezi">belief-driven-design.com</span></a> </div><div class="box svelte-173fezi" style="width: 144.04685798766613px; height: 204.24554490788483px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(102, 102, 102); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(15).jpg" alt=""> <div class="dimensions svelte-qd248k">134 × 190</div> </div></div> <a href="https://www.tes.com/teaching-resource/programming-assignment-1-concepts-of-programming-12338145" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Programming Assignment 1: Concepts of Programming | Teaching Resources</span> <span class="img-source text-ellipsis svelte-173fezi">TES</span></a> </div><div class="box svelte-173fezi" style="width: 364.72418733550865px; height: 204.24554490788483px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(102, 102, 102); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(16).jpg" alt=""> <div class="dimensions svelte-qd248k">150 × 84</div> </div></div> <a href="https://www.programmingboss.com/" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Programming Boss: Programming for Beginners</span> <span class="img-source text-ellipsis svelte-173fezi">programmingboss.com</span></a> </div><div class="box svelte-173fezi" style="width: 188.45336360057416px; height: 204.24554490788483px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(42, 42, 42); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(17).jpg" alt=""> <div class="dimensions svelte-qd248k">179 × 194</div> </div></div> <a href="https://www.fotosearch.com/illustration/computer-programming.html" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Computer Programming Illustrations | Our Top 1000+ Computer Programming Stock Art | Fotosearch</span> <span class="img-source text-ellipsis svelte-173fezi">Fotosearch</span></a> </div><div class="box svelte-173fezi" style="width: 321.63584148284855px; height: 204.24554490788483px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(101, 102, 102); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(18).jpg" alt=""> <div class="dimensions svelte-qd248k">190 × 121</div> </div></div> <a href="http://www.codeimagine.com/2012/02/popular-programming-language-for-coding.html" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Popular Programming Language for Coding and Development - Code Imagine</span> <span class="img-source text-ellipsis svelte-173fezi">codeimagine.com</span></a> </div><div class="box svelte-173fezi" style="width: 144.1733258173305px; height: 204.24554490788483px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(80, 80, 80); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(19).jpg" alt=""> <div class="dimensions svelte-qd248k">120 × 170</div> </div></div> <a href="https://fr.slideshare.net/maddeningdog6974/computer-programming-skills-and-traits-programmers-possess-46807346" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Computer Programming - Skills And Traits Programmers Possess</span> <span class="img-source text-ellipsis svelte-173fezi">fr.slideshare.net</span></a> </div><div class="box svelte-173fezi" style="width: 204.24554490788483px; height: 204.24554490788483px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(27, 27, 27); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(20).jpg" alt=""> <div class="dimensions svelte-qd248k">50 × 50</div> </div></div> <a href="http://www.dummies.com/programming/c/basics-of-binary-for-c-programming/" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Basics of Binary for C Programming - dummies</span> <span class="img-source text-ellipsis svelte-173fezi">dummies.com</span></a> </div><div class="box svelte-173fezi" style="width: 196.47533396030227px; height: 204.24554490788483px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(0, 0, 0); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(21).jpg" alt=""> <div class="dimensions svelte-qd248k">177 × 184</div> </div></div> <a href="https://cprogram99.blogspot.com/p/blog-page_20.html" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">C Programming Notes download, c program solve question paper, c programming tutorial, c example ...</span> <span class="img-source text-ellipsis svelte-173fezi">cprogram99.blogspot.com</span></a> </div><div class="box svelte-173fezi" style="width: 204.24554490788483px; height: 204.24554490788483px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(102, 102, 102); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(22).jpg" alt=""> <div class="dimensions svelte-qd248k">128 × 128</div> </div></div> <a href="http://www.freepik.com/free-icon/programming-code_768784.htm" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Programming code Icons | Free Download</span> <span class="img-source text-ellipsis svelte-173fezi">Freepik</span></a> </div><div class="box svelte-173fezi" style="width: 269.51562650622134px; height: 201.2383344579786px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(67, 67, 67); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(23).jpg" alt=""> <div class="dimensions svelte-qd248k">150 × 112</div> </div></div> <a href="http://www.slideserve.com/stuart/lego-wedo-introduction" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">PPT - LEGO WeDo Introduction PowerPoint Presentation - ID:1300003</span> <span class="img-source text-ellipsis svelte-173fezi">SlideServe</span></a> </div><div class="box svelte-173fezi" style="width: 221.36216790377648px; height: 201.2383344579786px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(102, 102, 102); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(24).jpg" alt=""> <div class="dimensions svelte-qd248k">154 × 140</div> </div></div> <a href="https://programming-language-inventors.blogspot.com/" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">programming-language-inventors</span> <span class="img-source text-ellipsis svelte-173fezi">blogspot.com</span></a> </div><div class="box svelte-173fezi" style="width: 739.8468178602154px; height: 201.2383344579786px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(47, 47, 47); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(25).jpg" alt=""> <div class="dimensions svelte-qd248k">125 × 34</div> </div></div> <a href="https://www.britannica.com/technology/computer-programming-language/Control-structures" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Computer programming language - Control structures | Britannica.com</span> <span class="img-source text-ellipsis svelte-173fezi">Britannica</span></a> </div><div class="box svelte-173fezi" style="width: 154.7987188138297px; height: 201.2383344579786px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(73, 73, 73); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(26).jpg" alt=""> <div class="dimensions svelte-qd248k">120 × 156</div> </div></div> <a href="https://www.slideshare.net/archikabhatia/programming-methodology-presentation-960424" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Programming Methodology</span> <span class="img-source text-ellipsis svelte-173fezi">SlideShare</span></a> </div><div class="box svelte-173fezi" style="width: 201.2383344579786px; height: 201.2383344579786px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(80, 80, 80); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(27).jpg" alt=""> <div class="dimensions svelte-qd248k">72 × 72</div> </div></div> <a href="https://oneuoneu.blogspot.com/2013/04/lexical-structure-of-tcl-programming.html" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Lexical structure of Tcl Programming Language - OneUoneU</span> <span class="img-source text-ellipsis svelte-173fezi">blogspot.com</span></a> </div><div class="box svelte-173fezi" style="width: 201.2383344579786px; height: 201.2383344579786px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(102, 102, 102); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(28).jpg" alt=""> <div class="dimensions svelte-qd248k">120 × 120</div> </div></div> <a href="https://www.differencebetween.com/difference-between-declarative-and-vs-imperative-programming/" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Difference Between Declarative and Imperative Programming | Compare the Difference Between ...</span> <span class="img-source text-ellipsis svelte-173fezi">differencebetween.com</span></a> </div><div class="box svelte-173fezi" style="width: 153.98969837745074px; height: 199.03430402527647px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(80, 80, 80); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(29).jpg" alt=""> <div class="dimensions svelte-qd248k">147 × 190</div> </div></div> <a href="https://www.tes.com/teaching-resource/pseudocode-programming-tasks-11476523" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">PSEUDOCODE / PROGRAMMING TASKS | Teaching Resources</span> <span class="img-source text-ellipsis svelte-173fezi">TES</span></a> </div><div class="box svelte-173fezi" style="width: 199.03430402527647px; height: 199.03430402527647px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(102, 102, 102); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(30).jpg" alt=""> <div class="dimensions svelte-qd248k">161 × 161</div> </div></div> <a href="https://www.researchgate.net/figure/General-Programming-Rubric_tbl1_234826342" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">General Programming Rubric | Download Table</span> <span class="img-source text-ellipsis svelte-173fezi">ResearchGate</span></a> </div><div class="box svelte-173fezi" style="width: 341.20166404333105px; height: 199.03430402527647px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(71, 71, 71); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(31).jpg" alt=""> <div class="dimensions svelte-qd248k">60 × 35</div> </div></div> <a href="https://blog.usejournal.com/writing-your-own-programming-language-and-compiler-with-python-a468970ae6df" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Writing your own programming language and compiler with Python</span> <span class="img-source text-ellipsis svelte-173fezi">blog.usejournal.com</span></a> </div><div class="box svelte-173fezi" style="width: 140.49480284137164px; height: 199.03430402527647px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(102, 102, 102); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(32).jpg" alt=""> <div class="dimensions svelte-qd248k">120 × 170</div> </div></div> <a href="https://www.slideshare.net/aryancollege/flowcharts-38511915" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Programming flowcharts for C Language</span> <span class="img-source text-ellipsis svelte-173fezi">SlideShare</span></a> </div><div class="box svelte-173fezi" style="width: 199.03430402527647px; height: 199.03430402527647px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(102, 102, 102); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(33).jpg" alt=""> <div class="dimensions svelte-qd248k">130 × 130</div> </div></div> <a href="http://skytechgeek.com/2011/12/12-booming-programming-languages-you-must-learn/" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">12 Booming Programming Languages You Must Learn SkyTechGeek</span> <span class="img-source text-ellipsis svelte-173fezi">skytechgeek.com</span></a> </div><div class="box svelte-173fezi" style="width: 173.0733078480665px; height: 199.03430402527647px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(0, 0, 204); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(34).jpg" alt=""> <div class="dimensions svelte-qd248k">100 × 115</div> </div></div> <a href="https://www.researchgate.net/publication/345308404_Optimization_in_linear_programming" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">(PDF) Optimization in linear programming</span> <span class="img-source text-ellipsis svelte-173fezi">researchgate.net</span></a> </div><div class="box svelte-173fezi" style="width: 153.1033107886742px; height: 199.03430402527647px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(70, 70, 70); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(35).jpg" alt=""> <div class="dimensions svelte-qd248k">120 × 156</div> </div></div> <a href="http://www.slideshare.net/sashquatch/b2b-marketing-summary" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">B2B Marketing - Summary</span> <span class="img-source text-ellipsis svelte-173fezi">SlideShare</span></a> </div><div class="box svelte-173fezi is-active" style="width: 199.03430402527647px; height: 199.03430402527647px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(76, 76, 76); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(36).jpg" alt=""> <div class="dimensions svelte-qd248k">160 × 160</div> <div class="selected svelte-qd248k"></div></div></div> <a href="https://www.dreamstime.com/programming-line-icon-website-development-browser-sign-vector-graphics-linear-pattern-white-background-programming-line-image130172110" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Programming Line Icon, Website And Development, Browser Sign, Vector Graphics, A Linear Pattern ...</span> <span class="img-source text-ellipsis svelte-173fezi">Dreamstime</span></a> </div><div class="box svelte-173fezi" style="width: 199.03430402527647px; height: 199.03430402527647px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(59, 59, 59); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(37).jpg" alt=""> <div class="dimensions svelte-qd248k">140 × 140</div> </div></div> <a href="https://securityretaili.com/pk4401" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">[Invue PK4401] Programming</span> <span class="img-source text-ellipsis svelte-173fezi">securityretaili.com</span></a> </div><div class="box svelte-173fezi" style="width: 151.37915070829928px; height: 201.83886761106572px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(72, 72, 72); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(38).jpg" alt=""> <div class="dimensions svelte-qd248k">105 × 140</div> </div></div> <a href="https://anthologyflower.co.uk/www.gov.uk/government/publications/programming-bills" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Programming bills - GOV.UK</span> <span class="img-source text-ellipsis svelte-173fezi">anthologyflower.co.uk</span></a> </div><div class="box svelte-173fezi" style="width: 242.59479280176168px; height: 201.83886761106572px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(100, 101, 103); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(39).jpg" alt=""> <div class="dimensions svelte-qd248k">125 × 104</div> </div></div> <a href="https://vrcollector.com/forums/topic/programming-with-step-7-manual/" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Programming with step 7 manual – VRCollector</span> <span class="img-source text-ellipsis svelte-173fezi">vrcollector.com</span></a> </div><div class="box svelte-173fezi" style="width: 306.7950787688199px; height: 201.83886761106572px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(85, 85, 85); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(40).jpg" alt=""> <div class="dimensions svelte-qd248k">152 × 100</div> </div></div> <a href="https://www.homeworklib.com/qaa/1949815/python-programming" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">python programming - HomeworkLib</span> <span class="img-source text-ellipsis svelte-173fezi">homeworklib.com</span></a> </div><div class="box svelte-173fezi" style="width: 163.9940799339909px; height: 201.83886761106572px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(102, 102, 102); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(41).jpg" alt=""> <div class="dimensions svelte-qd248k">52 × 64</div> </div></div> <a href="http://stjameslongdon.co.uk/139349-parametric-programming-for-cnc-machine-tools-and-t/" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Parametric Programming for Cnc Machine Tools and Touch Probes Best Download || [Mike Lynch]</span> <span class="img-source text-ellipsis svelte-173fezi">stjameslongdon.co.uk</span></a> </div><div class="box svelte-173fezi" style="width: 270.3199119791059px; height: 201.83886761106572px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(47, 47, 47); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(42).jpg" alt=""> <div class="dimensions svelte-qd248k">150 × 112</div> </div></div> <a href="https://flashyprogramming.wordpress.com/2009/12/26/visualizing-perlin-noise/perlin29719/" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">perlin29719 – Flashy Programming</span> <span class="img-source text-ellipsis svelte-173fezi">flashyprogramming.wordpress.com</span></a> </div><div class="box svelte-173fezi" style="width: 201.83886761106572px; height: 201.83886761106572px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(102, 102, 102); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(43).jpg" alt=""> <div class="dimensions svelte-qd248k">80 × 80</div> </div></div> <a href="http://geti.plancher-epoxy.info/Oracle-C++-Programming-Interview-Questions,-Answers,-And-Explanations:-Oracle-C++-Programming-Certificatation-Review%7CTerry-Sanchez.html5" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Oracle C++ Programming Interview Questions, Answers, And Explanations: Oracle C++ Programming ...</span> <span class="img-source text-ellipsis svelte-173fezi">geti.plancher-epoxy.info</span></a> </div><div class="box svelte-173fezi" style="width: 288.3412394443796px; height: 201.83886761106572px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(102, 102, 102); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(44).jpg" alt=""> <div class="dimensions svelte-qd248k">60 × 42</div> </div></div> <a href="https://qdoc.tips/java-8-programming-black-book-6-pdf-free.html" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Java 8 Programming Black Book - PDF Free Download</span> <span class="img-source text-ellipsis svelte-173fezi">qdoc.tips</span></a> </div><div class="box svelte-173fezi" style="width: 142.73687875257687px; height: 201.83886761106572px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(75, 75, 75); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(45).jpg" alt=""> <div class="dimensions svelte-qd248k">128 × 181</div> </div></div> <a href="https://webmedline24.com/data/svg-programming/" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Svg Programming [PDF] eBook Download</span> <span class="img-source text-ellipsis svelte-173fezi">webmedline24.com</span></a> </div><div class="box svelte-173fezi" style="width: 137.86996010843137px; height: 183.1085407690104px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(102, 102, 102); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(46).jpg" alt=""> <div class="dimensions svelte-qd248k">128 × 170</div> </div></div> <a href="https://journalmedia.net/docs/programming-package-for-business-data-processing-and-programming-or-automatic-data-processing-systems/" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Programming Package For Business Data Processing And Programming Or Automatic Data Processing ...</span> <span class="img-source text-ellipsis svelte-173fezi">journalmedia.net</span></a> </div><div class="box svelte-173fezi" style="width: 183.1085407690104px; height: 183.1085407690104px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(0, 0, 0); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(47).jpg" alt=""> <div class="dimensions svelte-qd248k">100 × 100</div> </div></div> <a href="https://www.glassdoor.co.in/job-listing/executive-programming-fiction-star-JV_IC2940587_KO0,29_KE30,34.htm?jl=1007636972497" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">STAR SpA Executive-Programming Fiction Job in Bangalore | Glassdoor</span> <span class="img-source text-ellipsis svelte-173fezi">glassdoor.co.in</span></a> </div><div class="box svelte-173fezi" style="width: 183.1085407690104px; height: 183.1085407690104px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(102, 102, 102); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(48).jpg" alt=""> <div class="dimensions svelte-qd248k">180 × 180</div> </div></div> <a href="https://pixels.com/featured/i-hate-programming-it-works-funny-programming-print-noirty-designs.html" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">I Hate Programming It Works Funny Programming Print Drawing by Noirty Designs</span> <span class="img-source text-ellipsis svelte-173fezi">pixels.com</span></a> </div><div class="box svelte-173fezi" style="width: 183.1085407690104px; height: 183.1085407690104px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(101, 101, 102); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(49).jpg" alt=""> <div class="dimensions svelte-qd248k">185 × 185</div> </div></div> <a href="https://icon-library.com/icon/programming-folder-icon-22.html" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Programming Folder Icon #274755 - Free Icons Library</span> <span class="img-source text-ellipsis svelte-173fezi">icon-library.com</span></a> </div><div class="box svelte-173fezi" style="width: 183.1085407690104px; height: 183.1085407690104px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(102, 102, 102); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(50).jpg" alt=""> <div class="dimensions svelte-qd248k">64 × 64</div> </div></div> <a href="https://www.digit.in/software/what-is-the-best-programming-language-in-the-world-28515.html" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">What is the best programming language in the world? | Digit</span> <span class="img-source text-ellipsis svelte-173fezi">Digit</span></a> </div><div class="box svelte-173fezi" style="width: 258.5061752033088px; height: 183.1085407690104px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(102, 102, 102); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(51).jpg" alt=""> <div class="dimensions svelte-qd248k">120 × 85</div> </div></div> <a href="http://javiergs.com/" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">javierGS – teaching and research</span> <span class="img-source text-ellipsis svelte-173fezi">javiergs.com</span></a> </div><div class="box svelte-173fezi" style="width: 230.94770907803115px; height: 183.1085407690104px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(102, 102, 102); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(52).jpg" alt=""> <div class="dimensions svelte-qd248k">140 × 111</div> </div></div> <a href="http://zorianas.com/us/products-PCM-ENGINE-COMPUTER-VIN-PROGRAMMING-SERVICE-DODGE-566557.cgi" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">VIN PROGRAMMING SERVICE 96-98 DODGE DAKOTA 2.5L 3.9L ECU ECM PCM ENGINE COMPUTER zorianas Car ...</span> <span class="img-source text-ellipsis svelte-173fezi">zorianas.com</span></a> </div><div class="box svelte-173fezi" style="width: 408.2419925341871px; height: 183.1085407690104px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(102, 102, 102); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(53).jpg" alt=""> <div class="dimensions svelte-qd248k">136 × 61</div> </div></div> <a href="http://www.mathspadilla.com/macsII/Unit4-LinearProgramming/linear_programming_with_two_unknowns.html" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">linear programming with two unknowns | LinearProgramming</span> <span class="img-source text-ellipsis svelte-173fezi">mathspadilla.com</span></a> </div><div class="box svelte-173fezi" style="width: 194.94148206676164px; height: 194.94148206676164px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(102, 102, 102); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(54).jpg" alt=""> <div class="dimensions svelte-qd248k">160 × 160</div> </div></div> <a href="https://selectedshot.com/best-laptop-for-programming-top-10-picks/" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Best Laptop For Programming: Top 10 Picks - Selected Shot</span> <span class="img-source text-ellipsis svelte-173fezi">selectedshot.com</span></a> </div><div class="box svelte-173fezi" style="width: 369.9909761675272px; height: 194.94148206676164px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(85, 83, 88); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(55).jpg" alt=""> <div class="dimensions svelte-qd248k">186 × 98</div> </div></div> <a href="https://www.java67.com/2017/05/top-7-free-python-programming-books-pdf-online-download.html" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Top 10 Free Python Programming Books - Download PDF or Read Online | Java67</span> <span class="img-source text-ellipsis svelte-173fezi">java67.com</span></a> </div><div class="box svelte-173fezi" style="width: 296.84271132893247px; height: 194.94148206676164px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(102, 102, 102); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(56).jpg" alt=""> <div class="dimensions svelte-qd248k">134 × 88</div> </div></div> <a href="http://www.desy.de/gna/html/cc/Tutorial/node3.htm" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">2 A Survey of Programming Techniques</span> <span class="img-source text-ellipsis svelte-173fezi">desy.de</span></a> </div><div class="box svelte-173fezi" style="width: 416.2264076560586px; height: 194.94148206676164px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(102, 102, 102); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(57).jpg" alt=""> <div class="dimensions svelte-qd248k">79 × 37</div> </div></div> <a href="http://www.iue.tuwien.ac.at/phd/heinzl/node32.html" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">4.2 Evolution of Programming Paradigms</span> <span class="img-source text-ellipsis svelte-173fezi">tuwien.ac.at</span></a> </div><div class="box svelte-173fezi" style="width: 194.94148206676164px; height: 194.94148206676164px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(0, 0, 0); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(58).jpg" alt=""> <div class="dimensions svelte-qd248k">156 × 156</div> </div></div> <a href="http://www.wellho.net/mouth/1749_Using-server-side-and-client-side-programming-together.html" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Using server side and client side programming together</span> <span class="img-source text-ellipsis svelte-173fezi">wellho.net</span></a> </div><div class="box svelte-173fezi" style="width: 315.05694071395817px; height: 194.94148206676164px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(55, 55, 55); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(59).jpg" alt=""> <div class="dimensions svelte-qd248k">160 × 99</div> </div></div> <a href="https://www.w3resource.com/c-programming/programming-in-c.php" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">C programming - w3resource</span> <span class="img-source text-ellipsis svelte-173fezi">w3resource.com</span></a> </div><div class="box svelte-173fezi" style="width: 149.24343956179928px; height: 197.38648458173452px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(102, 102, 102); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(60).jpg" alt=""> <div class="dimensions svelte-qd248k">124 × 164</div> </div></div> <a href="http://www.stjameslongdon.co.uk/5097059-pro-drools-declarative-programming-with-java-pro/" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Pro Drools: Declarative Programming With Java (Pro) ☆ Jan Machacek</span> <span class="img-source text-ellipsis svelte-173fezi">stjameslongdon.co.uk</span></a> </div><div class="box svelte-173fezi" style="width: 236.8637814980814px; height: 197.38648458173452px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(0, 0, 0); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(61).jpg" alt=""> <div class="dimensions svelte-qd248k">168 × 140</div> </div></div> <a href="http://bestmaths.net/online/index.php/year-levels/year-12/year-12-topic-list/linear-programming/" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">BestMaths</span> <span class="img-source text-ellipsis svelte-173fezi">bestmaths.net</span></a> </div><div class="box svelte-173fezi" style="width: 271.1758246122895px; height: 197.38648458173452px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(102, 102, 102); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(62).jpg" alt=""> <div class="dimensions svelte-qd248k">147 × 107</div> </div></div> <a href="https://ecampusontario.pressbooks.pub/busi1915/chapter/8-systems-of-equations/" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Systems of Equations and Linear Programming – Fundamentals of Business Mathematics</span> <span class="img-source text-ellipsis svelte-173fezi">ecampusontario.pressbooks.pub</span></a> </div><div class="box svelte-173fezi" style="width: 179.58002627973545px; height: 197.38648458173452px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(0, 0, 0); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(63).jpg" alt=""> <div class="dimensions svelte-qd248k">160 × 176</div> </div></div> <a href="https://www.quora.com/What-are-the-top-10-most-popular-dynamic-programming-problems-among-interviewers" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">What are the top 10 most popular dynamic programming problems among interviewers? - Quora</span> <span class="img-source text-ellipsis svelte-173fezi">Quora</span></a> </div><div class="box svelte-173fezi" style="width: 197.38648458173452px; height: 197.38648458173452px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(2, 3, 3); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(64).jpg" alt=""> <div class="dimensions svelte-qd248k">87 × 87</div> </div></div> <a href="http://longlivelearning.com/2014/02/19-free-resources-to-learn-computer-science-programming-and-coding/" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">19 Free Resources to Learn Computer Science, Programming and Coding – Happy Trails Wild Tales</span> <span class="img-source text-ellipsis svelte-173fezi">longlivelearning.com</span></a> </div><div class="box svelte-173fezi" style="width: 197.38648458173452px; height: 197.38648458173452px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(27, 24, 27); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(65).jpg" alt=""> <div class="dimensions svelte-qd248k">128 × 128</div> </div></div> <a href="https://iconscout.com/icon-pack/programming-language-logos" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Download Programming Language Logos Icon pack Available in SVG, PNG &amp; Icon fonts</span> <span class="img-source text-ellipsis svelte-173fezi">iconscout.com</span></a> </div><div class="box svelte-173fezi" style="width: 131.59098972115635px; height: 197.38648458173452px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(102, 102, 102); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(66).jpg" alt=""> <div class="dimensions svelte-qd248k">66 × 99</div> </div></div> <a href="https://www.shaalaa.com/question-paper-solution/university-of-pune-bsc-web-development-php-programming-2-semester-6-tybsc-2012-2013_6796" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Web Development and Php Programming 2 2012-2013 B.Sc Computer Science Semester 6 (TYBSc ...</span> <span class="img-source text-ellipsis svelte-173fezi">shaalaa.com</span></a> </div><div class="box svelte-173fezi" style="width: 197.38648458173452px; height: 197.38648458173452px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(102, 102, 102); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(67).jpg" alt=""> <div class="dimensions svelte-qd248k">128 × 128</div> </div></div> <a href="http://www.iconninja.com/tag/programming-python-icon" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">5 free programming python icons | tag | Icon Ninja</span> <span class="img-source text-ellipsis svelte-173fezi">iconninja.com</span></a> </div><div class="box svelte-173fezi" style="width: 197.38648458173452px; height: 197.38648458173452px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(102, 102, 102); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(68).jpg" alt=""> <div class="dimensions svelte-qd248k">150 × 150</div> </div></div> <a href="https://www.hackerrank.com/khosimnet" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Programming Problems and Competitions :: HackerRank</span> <span class="img-source text-ellipsis svelte-173fezi">hackerrank.com</span></a> </div><div class="box svelte-173fezi" style="width: 813.1752003701541px; height: 196.44120008941925px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(0, 0, 0); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(69).jpg" alt=""> <div class="dimensions svelte-qd248k">178 × 43</div> </div></div> <a href="https://linuxconfig.org/perl-programming-tutorial/" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Perl Programming Tutorial - LinuxConfig.org</span> <span class="img-source text-ellipsis svelte-173fezi">linuxconfig.org</span></a> </div><div class="box svelte-173fezi" style="width: 255.89051064279613px; height: 196.44120008941925px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(102, 102, 102); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(70).jpg" alt=""> <div class="dimensions svelte-qd248k">198 × 152</div> </div></div> <a href="https://flylib.com/books/en/3.138.1.70/1/" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Programming with Sizers | Cross-Platform GUI Programming with wxWidgets</span> <span class="img-source text-ellipsis svelte-173fezi">flylib.com</span></a> </div><div class="box svelte-173fezi" style="width: 129.6106887187921px; height: 196.44120008941925px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(40, 40, 40); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(71).jpg" alt=""> <div class="dimensions svelte-qd248k">128 × 194</div> </div></div> <a href="https://emersonroseauthor.net/pdf/foundations-of-programming-languages/" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">[PDF] eBook Foundations Of Programming Languages Download FULL</span> <span class="img-source text-ellipsis svelte-173fezi">emersonroseauthor.net</span></a> </div><div class="box svelte-173fezi" style="width: 196.44120008941925px; height: 196.44120008941925px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(102, 102, 102); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(72).jpg" alt=""> <div class="dimensions svelte-qd248k">60 × 60</div> </div></div> <a href="https://www.shutterstock.com/image-vector/person-working-on-computer-programming-coding-552022249?src=mj2AB9qRNiked-VSRIb1Jw-1-0" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Person Working On Computer Programming Coding Stock Vector (Royalty Free) 552022249</span> <span class="img-source text-ellipsis svelte-173fezi">Shutterstock</span></a> </div><div class="box svelte-173fezi" style="width: 196.44120008941925px; height: 196.44120008941925px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(102, 102, 102); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(73).jpg" alt=""> <div class="dimensions svelte-qd248k">160 × 160</div> </div></div> <a href="https://www.reddit.com/r/functionalprogramming/comments/5elzhi/functional_programming_for_modern_fortran/" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Functional programming for modern Fortran : functionalprogramming</span> <span class="img-source text-ellipsis svelte-173fezi">reddit.com</span></a> </div><div class="box svelte-173fezi" style="width: 196.44120008941925px; height: 196.44120008941925px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(102, 102, 102); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(74).jpg" alt=""> <div class="dimensions svelte-qd248k">100 × 100</div> </div></div> <a href="https://d2dfacts.com/uk/products-Programming-Red-Car-Vehicle-Toy-487647.cfm" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Kids Music &amp; Lights Roadster Programming Red Car Vehicle Toy Gift 3 Years+ d2dfacts Diecast ...</span> <span class="img-source text-ellipsis svelte-173fezi">d2dfacts.com</span></a> </div><div class="box svelte-173fezi" style="width: 183.9223755261481px; height: 183.9223755261481px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(80, 80, 80); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(75).jpg" alt=""> <div class="dimensions svelte-qd248k">50 × 50</div> </div></div> <a href="https://www.fiverr.com/math_geneius/help-you-code-in-r-and-r-studio-language-programming" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Help you code in r and r studio language programming by Math_geneius | Fiverr</span> <span class="img-source text-ellipsis svelte-173fezi">fiverr.com</span></a> </div><div class="box svelte-173fezi" style="width: 367.8447510522962px; height: 183.9223755261481px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(102, 102, 102); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(76).jpg" alt=""> <div class="dimensions svelte-qd248k">164 × 82</div> </div></div> <a href="http://www.yaldex.com/games-programming/0672323699_ch12lev1sec9.html" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Game Programming Gurus</span> <span class="img-source text-ellipsis svelte-173fezi">yaldex.com</span></a> </div><div class="box svelte-173fezi" style="width: 141.81966305630698px; height: 183.9223755261481px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(44, 44, 44); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(77).jpg" alt=""> <div class="dimensions svelte-qd248k">128 × 166</div> </div></div> <a href="https://likosherbbq.org/pdf/structured-programming-in-dbase-iv" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Book Structured Programming In Dbase Iv PDF Download/Read Online | Lik</span> <span class="img-source text-ellipsis svelte-173fezi">likosherbbq.org</span></a> </div><div class="box svelte-173fezi" style="width: 183.9223755261481px; height: 183.9223755261481px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(87, 83, 84); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(78).jpg" alt=""> <div class="dimensions svelte-qd248k">128 × 128</div> </div></div> <a href="https://servlib.com/sharp/ecr/er-a440-sm5.html?start=3" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Sharp ER-A440 (SERV.MAN5) service manual | ERA440 Programming Manual — Page 4</span> <span class="img-source text-ellipsis svelte-173fezi">servlib.com</span></a> </div><div class="box svelte-173fezi" style="width: 344.8544541115277px; height: 183.9223755261481px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(102, 102, 102); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(79).jpg" alt=""> <div class="dimensions svelte-qd248k">180 × 96</div> </div></div> <a href="https://en.wikipedia.org/wiki/Dynamic_programming" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Dynamic programming - Wikipedia</span> <span class="img-source text-ellipsis svelte-173fezi">Wikipedia</span></a> </div><div class="box svelte-173fezi" style="width: 177.7916296752765px; height: 183.9223755261481px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(102, 102, 102); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(80).jpg" alt=""> <div class="dimensions svelte-qd248k">58 × 60</div> </div></div> <a href="https://www.topcoder.com/community/arena" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Competititve Programming at Topcoder | Topcoder Community | Topcoder</span> <span class="img-source text-ellipsis svelte-173fezi">topcoder.com</span></a> </div><div class="box svelte-173fezi" style="width: 183.9223755261481px; height: 183.9223755261481px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(35, 37, 37); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(81).jpg" alt=""> <div class="dimensions svelte-qd248k">145 × 145</div> </div></div> <a href="https://deaftee.com/2022/genie-g3t-r-programming-instructions/" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Genie g3t r programming instructions - Australia Examples Cognitive Tutorials</span> <span class="img-source text-ellipsis svelte-173fezi">deaftee.com</span></a> </div><div class="box svelte-173fezi" style="width: 183.9223755261481px; height: 183.9223755261481px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(89, 85, 86); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(82).jpg" alt=""> <div class="dimensions svelte-qd248k">170 × 170</div> </div></div> <a href="https://www.stockio.com/free-vector/computer-programming" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Free vector "Computer Programming"</span> <span class="img-source text-ellipsis svelte-173fezi">stockio.com</span></a> </div><div class="box svelte-173fezi" style="width: 191.57533134039502px; height: 191.57533134039502px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(102, 102, 102); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(83).jpg" alt=""> <div class="dimensions svelte-qd248k">160 × 160</div> </div></div> <a href="https://www.dreamstime.com/stock-photo-flat-vector-business-interface-web-app-icon-document-support-style-modern-concept-set-license-certificate-team-representative-image66180755" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Flat Vector Business Interface Web App Icon: Document Support Stock Image - Image of license ...</span> <span class="img-source text-ellipsis svelte-173fezi">Dreamstime</span></a> </div><div class="box svelte-173fezi" style="width: 399.115273625823px; height: 191.57533134039502px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(3, 3, 3); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(84).jpg" alt=""> <div class="dimensions svelte-qd248k">50 × 24</div> </div></div> <a href="http://www.camps.ca/real_programming_4_kids.php" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Real Programming 4 Kids - Toronto Computer programming</span> <span class="img-source text-ellipsis svelte-173fezi">camps.ca</span></a> </div><div class="box svelte-173fezi" style="width: 821.0371343159786px; height: 191.57533134039502px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(0, 0, 0); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(85).jpg" alt=""> <div class="dimensions svelte-qd248k">60 × 14</div> </div></div> <a href="http://manuals.bioinformatics.ucr.edu/home/programming-in-r" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">R Programming - Manuals</span> <span class="img-source text-ellipsis svelte-173fezi">manuals.bioinformatics.ucr.edu</span></a> </div><div class="box svelte-173fezi" style="width: 396.27226071780336px; height: 191.57533134039502px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(102, 102, 102); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(86).jpg" alt=""> <div class="dimensions svelte-qd248k">151 × 73</div> </div></div> <a href="https://alumni.duke.edu/volunteer/volunteer-resources/volunteer-opportunities/duhlaa-vice-chair-programming" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">DUHLAA- Vice Chair of Programming | Duke</span> <span class="img-source text-ellipsis svelte-173fezi">alumni.duke.edu</span></a> </div><div class="box svelte-173fezi" style="width: 142.48374088434915px; height: 182.55729300807232px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(43, 43, 43); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(87).jpg" alt=""> <div class="dimensions svelte-qd248k">128 × 164</div> </div></div> <a href="https://likosherbbq.org/pdf/structured-programming-using-think-pascal-on-the-macintosh" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Book Structured Programming Using Think Pascal On The Macintosh PDF Do</span> <span class="img-source text-ellipsis svelte-173fezi">likosherbbq.org</span></a> </div><div class="box svelte-173fezi" style="width: 182.55729300807232px; height: 182.55729300807232px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(102, 102, 102); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(88).jpg" alt=""> <div class="dimensions svelte-qd248k">150 × 150</div> </div></div> <a href="https://www.tutorialgateway.org/c-programming-examples/" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">C Programming Examples - Tutorial Gateway</span> <span class="img-source text-ellipsis svelte-173fezi">tutorialgateway.org</span></a> </div><div class="box svelte-173fezi" style="width: 380.3276937668174px; height: 182.55729300807232px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(2, 2, 2); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(89).jpg" alt=""> <div class="dimensions svelte-qd248k">50 × 24</div> </div></div> <a href="http://www.camps.ca/real_programming_4_kids.php" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Real Programming 4 Kids - Toronto Computer programming</span> <span class="img-source text-ellipsis svelte-173fezi">camps.ca</span></a> </div><div class="box svelte-173fezi" style="width: 168.60386933866553px; height: 182.55729300807232px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(0, 0, 0); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(90).jpg" alt=""> <div class="dimensions svelte-qd248k">145 × 157</div> </div></div> <a href="https://www.hackcraft.net/raii/" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">HackCraft—The RAII Programming Idiom</span> <span class="img-source text-ellipsis svelte-173fezi">hackcraft.net</span></a> </div><div class="box svelte-173fezi" style="width: 182.55729300807232px; height: 182.55729300807232px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(69, 69, 69); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(91).jpg" alt=""> <div class="dimensions svelte-qd248k">180 × 180</div> </div></div> <a href="https://download.cnet.com/VHDL-Programming-Compiler/3000-20414_4-78691129.html" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">VHDL Programming Compiler - Free download and software reviews - CNET Download</span> <span class="img-source text-ellipsis svelte-173fezi">CNET</span></a> </div><div class="box svelte-173fezi" style="width: 199.1534105542607px; height: 182.55729300807232px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(102, 102, 102); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(92).jpg" alt=""> <div class="dimensions svelte-qd248k">180 × 165</div> </div></div> <a href="https://archive.org/details/TheCProgrammingLanguageFirstEdition" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">The C Programming Language First Edition : Dennis Ritchie, Brian Kernighan : Free Download ...</span> <span class="img-source text-ellipsis svelte-173fezi">Internet Archive</span></a> </div><div class="box svelte-173fezi" style="width: 522.3166994397625px; height: 182.55729300807232px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(102, 102, 102); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(93).jpg" alt=""> <div class="dimensions svelte-qd248k">103 × 36</div> </div></div> <a href="https://www.analyticsvidhya.com/blog/2017/02/lintroductory-guide-on-linear-programming-explained-in-simple-english/" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Introduction to Linear Programming and Optimization in simple english</span> <span class="img-source text-ellipsis svelte-173fezi">Analytics Vidhya</span></a> </div><div class="box svelte-173fezi" style="width: 188.5083108205502px; height: 135.21276744720095px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(11, 11, 11); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(94).jpg" alt=""> <div class="dimensions svelte-qd248k">191 × 137</div> </div></div> <a href="http://www.c4learn.com/c-programs/pyramid-programs-in-c-programming.html" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Index : Pyramid Programs in C Programming - Uncategorized - c4learn.com</span> <span class="img-source text-ellipsis svelte-173fezi">c4learn.com</span></a> </div><div class="box svelte-173fezi" style="width: 135.21276744720095px; height: 135.21276744720095px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(102, 102, 102); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(95).jpg" alt=""> <div class="dimensions svelte-qd248k">16 × 16</div> </div></div> <a href="https://www.pixelstech.net/article/1334983942-If-programming-language-is-a-knife-what-would-it-be" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">If programming language is a knife, what would it be? | Pixelstech.net</span> <span class="img-source text-ellipsis svelte-173fezi">pixelstech.net</span></a> </div><div class="box svelte-173fezi" style="width: 90.14184496480063px; height: 135.21276744720095px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(102, 102, 102); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(96).jpg" alt=""> <div class="dimensions svelte-qd248k">128 × 192</div> </div></div> <a href="https://likosherbbq.org/pdf/computer-architecture-and-programming-of-the-intel-x86-family" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Book Computer Architecture And Programming Of The Intel X86 Family PDF</span> <span class="img-source text-ellipsis svelte-173fezi">likosherbbq.org</span></a> </div><div class="box svelte-173fezi" style="width: 135.21276744720095px; height: 135.21276744720095px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(102, 102, 102); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(97).jpg" alt=""> <div class="dimensions svelte-qd248k">160 × 160</div> </div></div> <a href="https://lunacycle.com/parts/bafang-parts/bbshd-parts/bafang-bbs02-and-bbshd-programming-cable/" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Bafang BBS02 and BBSHD Programming Cable</span> <span class="img-source text-ellipsis svelte-173fezi">lunacycle.com</span></a> </div><div class="box svelte-173fezi" style="width: 99.46686340943518px; height: 135.21276744720095px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(69, 69, 69); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(98).jpg" alt=""> <div class="dimensions svelte-qd248k">128 × 174</div> </div></div> <a href="https://likosherbbq.org/pdf/fundamentals-of-fortran-programming-and-fortran-iv" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Book Fundamentals Of Fortran Programming And Fortran Iv PDF Download/R</span> <span class="img-source text-ellipsis svelte-173fezi">likosherbbq.org</span></a> </div><div class="box svelte-173fezi" style="width: 178.6019390907057px; height: 135.21276744720095px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(2, 2, 2); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(99).jpg" alt=""> <div class="dimensions svelte-qd248k">177 × 134</div> </div></div> <a href="https://www.algebra.com/algebra/college/linear/Linear_Algebra.faq.question.172970.html" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">SOLUTION: Set up the simplex matrix used to solve this linear programming problem. all variables ...</span> <span class="img-source text-ellipsis svelte-173fezi">algebra.com</span></a> </div><div class="box svelte-173fezi" style="width: 180.28368992960125px; height: 135.21276744720095px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(102, 102, 102); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(100).jpg" alt=""> <div class="dimensions svelte-qd248k">72 × 54</div> </div></div> <a href="http://www.computerhistory.org/atchm/the-apl-programming-language-source-code/" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">The APL Programming Language Source Code | @CHM Blog | Computer History Museum</span> <span class="img-source text-ellipsis svelte-173fezi">Computer History Museum</span></a> </div><div class="box svelte-173fezi" style="width: 760.5718168905054px; height: 135.21276744720095px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(42, 42, 42); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(101).jpg" alt=""> <div class="dimensions svelte-qd248k">135 × 24</div> </div></div> <a href="https://www.r-bloggers.com/using-linear-programming-lp-for-optimizing-bowling-change-or-batting-lineup-in-t20-cricket/" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Using Linear Programming (LP) for optimizing bowling change or batting lineup in T20 cricket | R ...</span> <span class="img-source text-ellipsis svelte-173fezi">r-bloggers.com</span></a> </div><div class="box svelte-173fezi" style="width: 118.15833681362281px; height: 180.92995324585993px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(43, 43, 43); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(102).jpg" alt=""> <div class="dimensions svelte-qd248k">128 × 196</div> </div></div> <a href="https://srt-medenine.com/pdf/automata-languages-and-programming/" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Automata Languages And Programming - PDF Online Books</span> <span class="img-source text-ellipsis svelte-173fezi">srt-medenine.com</span></a> </div><div class="box svelte-173fezi" style="width: 459.56208124448426px; height: 180.92995324585993px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(8, 8, 8); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(103).jpg" alt=""> <div class="dimensions svelte-qd248k">127 × 50</div> </div></div> <a href="http://www.orphanedgames.com/APF/" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">APF Programming</span> <span class="img-source text-ellipsis svelte-173fezi">orphanedgames.com</span></a> </div><div class="box svelte-173fezi" style="width: 127.71526111472467px; height: 180.92995324585993px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(70, 70, 70); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(104).jpg" alt=""> <div class="dimensions svelte-qd248k">120 × 170</div> </div></div> <a href="https://www.slideshare.net/MuhammadALIRAZA35/optimum-factor-production" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Optimum factor production</span> <span class="img-source text-ellipsis svelte-173fezi">SlideShare</span></a> </div><div class="box svelte-173fezi" style="width: 180.92995324585993px; height: 180.92995324585993px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(102, 102, 102); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(105).jpg" alt=""> <div class="dimensions svelte-qd248k">74 × 74</div> </div></div> <a href="http://mattdturner.com/wordpress/2011/04/top-10-funny-programming-jokes-and-quotes/" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">My 10 favorite funny programming quotes and cartoons | Tech N Comp</span> <span class="img-source text-ellipsis svelte-173fezi">mattdturner.com</span></a> </div><div class="box svelte-173fezi" style="width: 264.4360855131799px; height: 180.92995324585993px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(102, 102, 102); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(106).jpg" alt=""> <div class="dimensions svelte-qd248k">19 × 13</div> </div></div> <a href="http://flowgorithm.org/" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Flowgorithm - Flowchart Programming Language</span> <span class="img-source text-ellipsis svelte-173fezi">flowgorithm.org</span></a> </div><div class="box svelte-173fezi" style="width: 129.23568088989995px; height: 180.92995324585993px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(102, 102, 102); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(107).jpg" alt=""> <div class="dimensions svelte-qd248k">75 × 105</div> </div></div> <a href="https://tuto-computer.com/programming/378-cpp-programming-tutorial-professionals.html" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">[PDF] C++ programming tutorial for professionals</span> <span class="img-source text-ellipsis svelte-173fezi">tuto-computer.com</span></a> </div><div class="box svelte-173fezi" style="width: 246.7226635170817px; height: 180.92995324585993px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(70, 70, 70); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(108).jpg" alt=""> <div class="dimensions svelte-qd248k">60 × 44</div> </div></div> <a href="https://medium.com/@universityofgeeks/an-in-depth-knowledge-about-object-oriented-programming-f854da607de" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">An in-depth knowledge about Object Oriented Programming</span> <span class="img-source text-ellipsis svelte-173fezi">Medium</span></a> </div><div class="box svelte-173fezi" style="width: 241.23993766114657px; height: 180.92995324585993px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(2, 2, 2); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(109).jpg" alt=""> <div class="dimensions svelte-qd248k">120 × 90</div> </div></div> <a href="https://www.slideshare.net/rajguptanitw/cnc-programming-70022845" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">CNC Programming</span> <span class="img-source text-ellipsis svelte-173fezi">SlideShare</span></a> </div><div class="box svelte-173fezi" style="width: 222.93894172744027px; height: 187.0210011157971px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(62, 62, 62); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(110).jpg" alt=""> <div class="dimensions svelte-qd248k">180 × 151</div> </div></div> <a href="https://www.researchgate.net/topic/Nonlinear-Programming" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">61 questions in Nonlinear Programming | Topic</span> <span class="img-source text-ellipsis svelte-173fezi">ResearchGate</span></a> </div><div class="box svelte-173fezi" style="width: 475.03334283412465px; height: 187.0210011157971px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(8, 8, 8); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(111).jpg" alt=""> <div class="dimensions svelte-qd248k">127 × 50</div> </div></div> <a href="http://www.orphanedgames.com/APF/" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">APF Programming</span> <span class="img-source text-ellipsis svelte-173fezi">orphanedgames.com</span></a> </div><div class="box svelte-173fezi" style="width: 146.19247270319352px; height: 187.0210011157971px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(102, 102, 102); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(112).jpg" alt=""> <div class="dimensions svelte-qd248k">111 × 142</div> </div></div> <a href="https://www.alarmgrid.com/documents/honeywell-vista-15p-20p-57-function-key-programming-worksheet" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Honeywell VISTA 15P, 20P: *57 Function Key Programming Worksheet - Alarm Grid</span> <span class="img-source text-ellipsis svelte-173fezi">alarmgrid.com</span></a> </div><div class="box svelte-173fezi" style="width: 162.62695749199747px; height: 187.0210011157971px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(102, 102, 102); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(113).jpg" alt=""> <div class="dimensions svelte-qd248k">100 × 115</div> </div></div> <a href="https://www.researchgate.net/publication/338165725_4_-Solving_the_linear_programming_model_Example_3_Solve_the_following_linear_programming_model" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">(PDF) 4 -Solving the linear programming model: Example 3: Solve the following linear programming ...</span> <span class="img-source text-ellipsis svelte-173fezi">researchgate.net</span></a> </div><div class="box svelte-173fezi" style="width: 137.80494819058734px; height: 187.0210011157971px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(31, 31, 31); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(114).jpg" alt=""> <div class="dimensions svelte-qd248k">140 × 190</div> </div></div> <a href="https://www.pinterest.com/sahil9973/computer-science-programming/" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">7 Computer science programming ideas | computer science programming, computer science ...</span> <span class="img-source text-ellipsis svelte-173fezi">pinterest.com</span></a> </div><div class="box svelte-173fezi" style="width: 249.3613348210628px; height: 187.0210011157971px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(102, 102, 102); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(115).jpg" alt=""> <div class="dimensions svelte-qd248k">72 × 54</div> </div></div> <a href="http://www.computerhistory.org/atchm/the-apl-programming-language-source-code/" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">The APL Programming Language Source Code | @CHM Blog | Computer History Museum</span> <span class="img-source text-ellipsis svelte-173fezi">Computer History Museum</span></a> </div><div class="box svelte-173fezi" style="width: 187.0210011157971px; height: 187.0210011157971px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(102, 102, 102); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(116).jpg" alt=""> <div class="dimensions svelte-qd248k">165 × 165</div> </div></div> <a href="https://www.researchgate.net/publication/224007187_Multistage_Stochastic_Programming_A_Scenario_Tree_Based_Approach_to_Planning_under_Uncertainty" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">(PDF) Multistage Stochastic Programming: A Scenario Tree Based Approach to Planning under ...</span> <span class="img-source text-ellipsis svelte-173fezi">ResearchGate</span></a> </div><div class="box svelte-173fezi" style="width: 187.0210011157971px; height: 187.0210011157971px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(3, 1, 4); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(117).jpg" alt=""> <div class="dimensions svelte-qd248k">180 × 180</div> </div></div> <a href="https://www.pngrepo.com/svg/150351/php-programming-language" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Php Programming Language Vector SVG Icon - PNG Repo Free PNG Icons</span> <span class="img-source text-ellipsis svelte-173fezi">pngrepo.com</span></a> </div><div class="box svelte-173fezi" style="width: 295.25833108853766px; height: 184.53645693033602px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(6, 4, 6); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(118).jpg" alt=""> <div class="dimensions svelte-qd248k">128 × 80</div> </div></div> <a href="http://www.jefflewis.net/programming.html" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Programming | jefflewis.net</span> <span class="img-source text-ellipsis svelte-173fezi">jefflewis.net</span></a> </div><div class="box svelte-173fezi" style="width: 184.53645693033602px; height: 184.53645693033602px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(54, 54, 54); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(119).jpg" alt=""> <div class="dimensions svelte-qd248k">60 × 60</div> </div></div> <a href="https://medium.com/hack-education/learn-programming-92c58ca2025b" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Learn programming - Hack Education - Medium</span> <span class="img-source text-ellipsis svelte-173fezi">Medium</span></a> </div><div class="box svelte-173fezi" style="width: 184.53645693033602px; height: 184.53645693033602px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(102, 102, 102); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(120).jpg" alt=""> <div class="dimensions svelte-qd248k">128 × 128</div> </div></div> <a href="https://www.123-reg.co.uk/web-hosting/" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Web Hosting – Free domain, email, expert support and more</span> <span class="img-source text-ellipsis svelte-173fezi">123 Reg</span></a> </div><div class="box svelte-173fezi" style="width: 200.6833969117404px; height: 184.53645693033602px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(102, 102, 102); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(121).jpg" alt=""> <div class="dimensions svelte-qd248k">174 × 160</div> </div></div> <a href="https://jobs.smartrecruiters.com/Ubisoft2/743999808480115-ubisoft-graduate-program-2022-online-programming" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Ubisoft Ubisoft Graduate Program 2022 - Online Programming | SmartRecruiters</span> <span class="img-source text-ellipsis svelte-173fezi">jobs.smartrecruiters.com</span></a> </div><div class="box svelte-173fezi" style="width: 172.23402646831363px; height: 184.53645693033602px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(0, 0, 0); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(122).jpg" alt=""> <div class="dimensions svelte-qd248k">154 × 165</div> </div></div> <a href="http://www.umich.edu/~bme332/Ch5boundarycond/bme332boundcond.htm" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">BME 332: Determining Boundary Conditions</span> <span class="img-source text-ellipsis svelte-173fezi">umich.edu</span></a> </div><div class="box svelte-173fezi" style="width: 123.024304620224px; height: 184.53645693033602px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(0, 0, 0); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(123).jpg" alt=""> <div class="dimensions svelte-qd248k">82 × 123</div> </div></div> <a href="https://all-guidesbox.com/manual/947628/electrolux-compass-pro-programming-and-configuration-manual-52.html" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Electrolux Compass Pro Dryer Programming and configuration manual PDF View/Download</span> <span class="img-source text-ellipsis svelte-173fezi">all-guidesbox.com</span></a> </div><div class="box svelte-173fezi" style="width: 184.53645693033602px; height: 184.53645693033602px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(0, 0, 0); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(124).jpg" alt=""> <div class="dimensions svelte-qd248k">156 × 156</div> </div></div> <a href="http://www.wellho.net/mouth/3582_Tcl-collections-lists-dicts-and-array.html" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Tcl collections - lists, dicts and array</span> <span class="img-source text-ellipsis svelte-173fezi">wellho.net</span></a> </div><div class="box svelte-173fezi" style="width: 202.99010262336964px; height: 184.53645693033602px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(102, 102, 102); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(125).jpg" alt=""> <div class="dimensions svelte-qd248k">132 × 120</div> </div></div> <a href="https://flylib.com/books/en/3.287.1.26/1/" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Graphical Solutions of Linear Programming Models | Introduction to Management Science (10th Edition)</span> <span class="img-source text-ellipsis svelte-173fezi">flylib.com</span></a> </div><div class="box svelte-173fezi" style="width: 210.2004674968066px; height: 184.53645693033602px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(102, 102, 102); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(126).jpg" alt=""> <div class="dimensions svelte-qd248k">172 × 151</div> </div></div> <a href="https://www.edureka.co/blog/pyspark-programming/" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">PySpark Programming | What is PySpark? | Introduction To PySpark | Edureka</span> <span class="img-source text-ellipsis svelte-173fezi">Edureka</span></a> </div><div class="box svelte-173fezi" style="width: 339.96823189401624px; height: 190.38220986064908px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(93, 84, 84); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(127).jpg" alt=""> <div class="dimensions svelte-qd248k">125 × 70</div> </div></div> <a href="http://transmissionproject.org/projects/national-black-programming-consortium.html" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">National Black Programming Consortium | Transmission Project</span> <span class="img-source text-ellipsis svelte-173fezi">transmissionproject.org</span></a> </div><div class="box svelte-173fezi" style="width: 221.08901790268928px; height: 190.38220986064908px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(102, 102, 102); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(128).jpg" alt=""> <div class="dimensions svelte-qd248k">144 × 124</div> </div></div> <a href="https://www.plcacademy.com/ladder-logic-examples/" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Ladder Diagram And PLC Programming Examples &amp; Solutions | PLC Academy</span> <span class="img-source text-ellipsis svelte-173fezi">plcacademy.com</span></a> </div><div class="box svelte-173fezi" style="width: 190.38220986064908px; height: 190.38220986064908px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(102, 102, 102); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(129).jpg" alt=""> <div class="dimensions svelte-qd248k">64 × 64</div> </div></div> <a href="http://compsci.ca/blog/on-entering-the-computer-science-field-with-no-programming-background/" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">On entering the Computer Science field with no programming background | CompSci.ca/blog</span> <span class="img-source text-ellipsis svelte-173fezi">compsci.ca</span></a> </div><div class="box svelte-173fezi" style="width: 175.737424486753px; height: 190.38220986064908px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(102, 102, 102); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(130).jpg" alt=""> <div class="dimensions svelte-qd248k">180 × 195</div> </div></div> <a href="https://www.canstockphoto.com/web-design-software-development-computer-47251574.html" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Web design software development computer programming device technology banner with copy space ...</span> <span class="img-source text-ellipsis svelte-173fezi">Can Stock Photo</span></a> </div><div class="box svelte-173fezi" style="width: 148.7361014536321px; height: 190.38220986064908px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(102, 102, 102); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(131).jpg" alt=""> <div class="dimensions svelte-qd248k">150 × 192</div> </div></div> <a href="https://engineersarchive.blogspot.com/2011/10/douglas-vhall-microprocessors-and.html" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">ENGINEERS' ARCHIVE: Douglas V.Hall, "Microprocessors and Interfacing Programming and Hardware",</span> <span class="img-source text-ellipsis svelte-173fezi">blogspot.com</span></a> </div><div class="box svelte-173fezi" style="width: 173.25788410598753px; height: 190.38220986064908px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(102, 102, 102); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(132).jpg" alt=""> <div class="dimensions svelte-qd248k">172 × 189</div> </div></div> <a href="https://sobamemil.tistory.com/41?category=816216" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">명품 C++ programming 실습 문제 2장 15번</span> <span class="img-source text-ellipsis svelte-173fezi">sobamemil.tistory.com</span></a> </div><div class="box svelte-173fezi" style="width: 268.77488450915166px; height: 190.38220986064908px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(37, 37, 37); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(133).jpg" alt=""> <div class="dimensions svelte-qd248k">144 × 102</div> </div></div> <a href="https://yalmip.github.io/tutorial/geometricprogramming" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Geometric programming - YALMIP</span> <span class="img-source text-ellipsis svelte-173fezi">github.io</span></a> </div><div class="box svelte-173fezi" style="width: 250.05424578712118px; height: 190.38220986064908px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(0, 0, 0); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(134).jpg" alt=""> <div class="dimensions svelte-qd248k">88 × 67</div> </div></div> <a href="http://www.math-mate.com/chapter38_1.shtml" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Linear programming</span> <span class="img-source text-ellipsis svelte-173fezi">math-mate.com</span></a> </div><div class="box svelte-173fezi" style="width: 264.52191184053373px; height: 201.4126232288328px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(102, 102, 102); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(135).jpg" alt=""> <div class="dimensions svelte-qd248k">197 × 150</div> </div></div> <a href="https://www.easycalculation.com/maths-dictionary/linear_programming.html" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">What is linear programming - Definition and Meaning - Math Dictionary</span> <span class="img-source text-ellipsis svelte-173fezi">easycalculation.com</span></a> </div><div class="box svelte-173fezi" style="width: 201.4126232288328px; height: 201.4126232288328px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(102, 102, 102); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(136).jpg" alt=""> <div class="dimensions svelte-qd248k">182 × 182</div> </div></div> <a href="https://www.researchgate.net/publication/236110851_An_object-oriented_parallel_programming_language_for_distributed-memory_parallel_computing_platforms" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">(PDF) An object-oriented parallel programming language for distributed-memory parallel computing ...</span> <span class="img-source text-ellipsis svelte-173fezi">ResearchGate</span></a> </div><div class="box svelte-173fezi" style="width: 268.5501643051104px; height: 201.4126232288328px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(102, 102, 102); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(137).jpg" alt=""> <div class="dimensions svelte-qd248k">72 × 54</div> </div></div> <a href="http://www.computerhistory.org/atchm/the-apl-programming-language-source-code/" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">The APL Programming Language Source Code | @CHM Blog | Computer History Museum</span> <span class="img-source text-ellipsis svelte-173fezi">Computer History Museum</span></a> </div><div class="box svelte-173fezi" style="width: 201.4126232288328px; height: 201.4126232288328px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(102, 102, 102); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(138).jpg" alt=""> <div class="dimensions svelte-qd248k">54 × 54</div> </div></div> <a href="https://www.learning-mind.com/10-steps-to-programming-your-dreams/" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">10 steps to programming your dreams – Learning Mind</span> <span class="img-source text-ellipsis svelte-173fezi">learning-mind.com</span></a> </div><div class="box svelte-173fezi" style="width: 154.93278709910217px; height: 201.4126232288328px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(17, 17, 17); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(139).jpg" alt=""> <div class="dimensions svelte-qd248k">120 × 156</div> </div></div> <a href="https://www.slideshare.net/tiwarimanutiwari/linear-programing" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Linear programing</span> <span class="img-source text-ellipsis svelte-173fezi">SlideShare</span></a> </div><div class="box svelte-173fezi" style="width: 201.4126232288328px; height: 201.4126232288328px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(102, 102, 102); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(140).jpg" alt=""> <div class="dimensions svelte-qd248k">128 × 128</div> </div></div> <a href="https://iconscout.com/icons/c-programming" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">C Programming icons - 100+ Free SVG and PNG - Iconscout</span> <span class="img-source text-ellipsis svelte-173fezi">iconscout.com</span></a> </div><div class="box svelte-173fezi" style="width: 175.14141150333288px; height: 201.4126232288328px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(200, 29, 3); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(141).jpg" alt=""> <div class="dimensions svelte-qd248k">100 × 115</div> </div></div> <a href="https://www.researchgate.net/publication/324648332_Profit_Optimization_Using_Linear_Programming_Model_A_Case_Study_of_Ethiopian_Chemical_Company" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">(PDF) Profit Optimization Using Linear Programming Model: A Case Study of Ethiopian Chemical Company</span> <span class="img-source text-ellipsis svelte-173fezi">ResearchGate</span></a> </div><div class="box svelte-173fezi" style="width: 300.6158555654221px; height: 201.4126232288328px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(102, 102, 102); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(142).jpg" alt=""> <div class="dimensions svelte-qd248k">100 × 67</div> </div></div> <a href="http://www.plcacademy.com/ladder-logic-examples/" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Ladder Logic Examples and PLC Programming Examples</span> <span class="img-source text-ellipsis svelte-173fezi">plcacademy.com</span></a> </div><div class="box svelte-173fezi" style="width: 456.5253989479668px; height: 140.21851539116122px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(36, 36, 36); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(143).jpg" alt=""> <div class="dimensions svelte-qd248k">140 × 43</div> </div></div> <a href="https://mc.pp.se/dc/kbd.html" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Dreamcast Programming - Keyboard</span> <span class="img-source text-ellipsis svelte-173fezi">mc.pp.se</span></a> </div><div class="box svelte-173fezi" style="width: 319.0479263248161px; height: 140.21851539116122px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(102, 102, 102); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(144).jpg" alt=""> <div class="dimensions svelte-qd248k">157 × 69</div> </div></div> <a href="http://staff.ustc.edu.cn/~csli/graduate/algorithms/book6/chap16.htm" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Intro to Algorithms: CHAPTER 16: DYNAMIC PROGRAMMING</span> <span class="img-source text-ellipsis svelte-173fezi">staff.ustc.edu.cn</span></a> </div><div class="box svelte-173fezi" style="width: 93.47901026077415px; height: 140.21851539116122px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(102, 102, 102); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(145).jpg" alt=""> <div class="dimensions svelte-qd248k">66 × 99</div> </div></div> <a href="https://www.shaalaa.com/question-paper-solution/university-of-pune-msc-object-oriented-programming-using-c-ma-mathematics-semester-2-2011-2012_7137" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Object Oriented Programming Using C++ 2011-2012 M.Sc Mathematics Semester 2 question paper with ...</span> <span class="img-source text-ellipsis svelte-173fezi">shaalaa.com</span></a> </div><div class="box svelte-173fezi" style="width: 140.21851539116122px; height: 140.21851539116122px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(0, 0, 0); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(146).jpg" alt=""> <div class="dimensions svelte-qd248k">156 × 156</div> </div></div> <a href="http://www.wellho.net/mouth/2409_TypeError-super-argument-1-must-be-type-not-classobj-Python-.html" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">TypeError: super() argument 1 must be type, not classobj (Python)</span> <span class="img-source text-ellipsis svelte-173fezi">wellho.net</span></a> </div><div class="box svelte-173fezi" style="width: 788.7291490752818px; height: 140.21851539116122px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(43, 43, 43); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(147).jpg" alt=""> <div class="dimensions svelte-qd248k">135 × 24</div> </div></div> <a href="https://www.r-bloggers.com/using-linear-programming-lp-for-optimizing-bowling-change-or-batting-lineup-in-t20-cricket/" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Using Linear Programming (LP) for optimizing bowling change or batting lineup in T20 cricket | R ...</span> <span class="img-source text-ellipsis svelte-173fezi">r-bloggers.com</span></a> </div><div class="box svelte-173fezi" style="width: 140.21851539116122px; height: 140.21851539116122px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(102, 102, 102); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(148).jpg" alt=""> <div class="dimensions svelte-qd248k">192 × 192</div> </div></div> <a href="https://cprogramaboutexample.blogspot.com/" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">PROGRAMMING EXAMPLES</span> <span class="img-source text-ellipsis svelte-173fezi">cprogramaboutexample.blogspot.com</span></a> </div><div class="box svelte-173fezi" style="width: 186.227715753886px; height: 140.21851539116122px; margin-right: 5px; margin-left: 5px; margin-bottom: 60px;"><div class="image-container svelte-qd248k"><div class="img-wrapper svelte-qd248k" style="background-color: rgb(102, 102, 102); height: 100%;"><img class="image svelte-qd248k" loading="lazy" src="./paranteza_files/th(149).jpg" alt=""> <div class="dimensions svelte-qd248k">170 × 128</div> </div></div> <a href="https://www.slideshare.net/mbynum/python-for-the-network-nerd" class="img-url svelte-173fezi"><span class="img-title text-ellipsis svelte-173fezi">Python for the Network Nerd</span> <span class="img-source text-ellipsis svelte-173fezi">SlideShare</span></a> </div></div></div> <div class="wrapper svelte-c04oor" style="top: 1466.03px;"><div class="image-viewer svelte-c04oor"><div class="image svelte-c04oor"><div class="image-wrapper svelte-z7sgic"><div class="holder svelte-z7sgic" style="background-image: url(&quot;https://imgs.search.brave.com/78XFb3CpWSoRYsVCPTwzSiMd17OLkpoXb5Rhib3gUKU/rs:fit:160:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5p/Sk5scFZySXFVMnNX/Y3pzb3kwNHdnQUFB/QSZwaWQ9QXBp&quot;); width: 160px; height: 160px;"><img class="img is-loaded svelte-z7sgic" src="https://imgs.search.brave.com/7_jRr2Ne-7K7i8AEP0vRgzJ_4rlEY-hsD4G5A_GPLCg/rs:fit:160:160:1/g:ce/aHR0cHM6Ly90aHVt/YnMuZHJlYW1zdGlt/ZS5jb20vdC9jb2Rp/bmctdGhpbi1saW5l/LWljb24tcHJvZ3Jh/bW1pbmctZGV2ZWxv/cG1lbnQtY29tcHV0/ZXItc2lnbi12ZWN0/b3ItZ3JhcGhpY3Mt/bGluZWFyLXBhdHRl/cm4tY29kaW5nLXRo/aW4tbGluZS1pY29u/LXByb2dyYW1taW5n/LTEzMDE3MjE1Ni5q/cGc" alt="Programming Line Icon, Website And Development, Browser Sign, Vector Graphics, A Linear Pattern ..." style=""></div></div></div> <div class="image-details svelte-c04oor"><div class="mb-15"><a class="h5 svelte-c04oor" href="https://www.dreamstime.com/programming-line-icon-website-development-browser-sign-vector-graphics-linear-pattern-white-background-programming-line-image130172110" target="_self">Programming Line Icon, Website And Development, Browser Sign, Vector Graphics, A Linear Pattern ...</a></div> <a href="https://www.dreamstime.com/" class="text-sm svelte-c04oor" target="_self">www.dreamstime.com</a> <p class="text-sm text-gray">160 × 160</p> <a class="btn svelte-c04oor" href="https://thumbs.dreamstime.com/t/coding-thin-line-icon-programming-development-computer-sign-vector-graphics-linear-pattern-coding-thin-line-icon-programming-130172156.jpg" target="_self">View file</a></div></div> <div class="controls svelte-c04oor"><div class="navigate svelte-c04oor"><div class="btn-round mr-5 svelte-c04oor"><span class="icon-wrapper"><svg class="icon" width="8" height="15" viewBox="0 0 8 15" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M.8 8.029a1.2 1.2 0 010-1.68L6.527.509a.8.8 0 011.142 1.12l-5.45 5.56 5.45 5.56a.8.8 0 11-1.142 1.12L.8 8.028z"></path></svg></span></div> <div class="btn-round svelte-c04oor"><span class="icon-wrapper"><svg class="icon" width="9" height="15" viewBox="0 0 9 15" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M7.73 6.349a1.2 1.2 0 010 1.68l-5.725 5.84a.8.8 0 01-1.143-1.12l5.451-5.56-5.45-5.56A.8.8 0 112.004.51L7.73 6.35z"></path></svg></span></div></div> <div class="btn-round svelte-c04oor"><span class="icon-wrapper"><svg class="icon" xmlns="http://www.w3.org/2000/svg" width="13" height="12" viewBox="0 0 13 12"><path fill-rule="evenodd" d="M12.232 1.844A1.08 1.08 0 0010.704.316L6.548 4.472 2.393.317A1.08 1.08 0 00.865 1.845L5.02 6 .865 10.155a1.08 1.08 0 101.528 1.528l4.155-4.155 4.156 4.156a1.08 1.08 0 101.528-1.528L8.076 6l4.156-4.156z" clip-rule="evenodd"></path></svg></span></div></div></div> <span class="svelte-173fezi" style="display: none;"></span></div>
+  <div id="feedback"></div>
+
+    <div id="debug"></div>
+
+</main>
+<style>
+  footer {
+    background-color: var(--bg-01);
+    color: var(--color-primary);
+    height: fit-content;
+    padding: 2rem 0px;
+    margin-top: 2rem;
+  }
+
+  footer .content {
+    display: flex;
+    align-items: baseline;
+    align-items: flex-start;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+
+  footer h6 {
+    color: var(--color-gray-3);
+    font-family: var(--brand-font);
+  }
+
+  footer .text-sm {
+    font-size: var(--text-sm);
+  }
+
+  footer .text-gray {
+    color: var(--color-gray-3) !important;
+  }
+
+  footer .container-sm {
+    max-width: 1000px;
+    padding-left: 175px;
+  }
+
+  footer .content .block {
+    margin-bottom: 1rem;
+  }
+</style>
+<footer>
+  <div class="container-sm">
+    <div class="content">
+      <div class="block">
+        <h6>Resources</h6>
+        <div>
+          <a class="text-gray text-sm" href="https://search.brave.com/help">
+            Brave Search Help
+          </a>
+        </div>
+        <div><a class="text-gray text-sm" href="https://brave.com/transparency/">
+            Transparency Report
+          </a>
+        </div>
+        <div>
+          <a class="text-gray text-sm" target="_blank" rel="noopener noreferrer" href="https://hackerone.com/brave">
+            Report a security issue
+          </a>
+        </div>
+        <div>
+          <a class="text-gray text-sm" href="https://status.brave.com/">
+            Status
+          </a>
+        </div>
+      </div>
+      <div class="block">
+        <h6>Products</h6>
+        <div>
+          <a class="text-gray text-sm" href="https://brave.com/download/">
+            Brave Browser
+          </a>
+        </div>
+        <div>
+          <a class="text-gray text-sm" href="https://search.brave.com/">
+            Brave Search
+          </a>
+        </div>
+        <div>
+          <a class="text-gray text-sm" href="https://brave.com/wallet">
+            Brave Wallet
+          </a>
+        </div>
+        <div>
+          <a class="text-gray text-sm" href="https://talk.brave.com/">
+            Brave Talk
+          </a>
+        </div>
+        <div>
+          <a class="text-gray text-sm" href="https://brave.com/firewall-vpn/">
+            Brave Firewall + VPN
+          </a>
+        </div>
+        <div>
+          <a class="text-gray text-sm" href="https://brave.com/playlist/">
+            Brave Playlist
+          </a>
+        </div>
+        <div>
+          <a class="text-gray text-sm" href="https://brave.com/brave-news/">
+            Brave News
+          </a>
+        </div>
+        <div>
+          <a class="text-gray text-sm" href="https://brave.com/brave-rewards/">
+            Brave Rewards
+          </a>
+        </div>
+      </div>
+      <div class="block">
+        <h6>Policies</h6>
+        <div><a class="text-gray text-sm" href="https://search.brave.com/help/privacy-policy">
+            Privacy Policy</a>
+        </div>
+        <div>
+          <a class="text-gray text-sm" href="https://brave.com/terms-of-use/">
+            Terms of Use
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+<div id="usage-metrics"></div>
+
+
+<script id="js-suggest" src="./paranteza_files/16ee807086e7185294258c4cb9d5c900598b5706b207fa1f95535c0b49d61ceb-main.bundle.js.download" data="{&quot;is_mobile&quot;:false}" defer="true">
+</script>
+
+<script id="js-sticky-header" src="./paranteza_files/9982e17e10a83668c846c7dc242dd2aefca83e697c16918dd4131bd2e4946af5-main.bundle.js.download" data="{&quot;is_mobile&quot;:false}" defer="true">
+</script>
+
+<script id="js-umNotice" src="./paranteza_files/999e0c2503ef9d13d35f5e2feb5deca2528da0383c3674353bc178104e4b54b4-main.bundle.js.download" data="{&quot;i18n&quot;:{&quot;usage-metrics-notice&quot;:&quot;Brave Search uses private usage metrics to estimate overall activity and performance. You can turn off this option in &lt;a href=&#39;/settings&#39;&gt;Settings&lt;/a&gt;.&quot;,&quot;Learn more&quot;:&quot;Learn more&quot;}}" defer="true">
+</script>
+
+<script id="js-imgtab" src="./paranteza_files/4dc85703552aa0158cb1ac8d9249dbeb53bca4afcf3f33a7f20b957511a5d748-main.bundle.js.download" data="{&quot;is_mobile&quot;:false,&quot;q&quot;:&quot;programming&quot;,&quot;i18n&quot;:{&quot;View file&quot;:&quot;View file&quot;,&quot;Learn more&quot;:&quot;Learn more&quot;,&quot;Dismiss&quot;:&quot;Dismiss&quot;,&quot;Find elsewhere&quot;:&quot;Find elsewhere&quot;,&quot;bad-results-header&quot;:&quot;Not many great matches came back for your search&quot;,&quot;Try more general keywords&quot;:&quot;Try more general keywords&quot;,&quot;Try fewer keywords&quot;:&quot;Try fewer keywords&quot;,&quot;bad-results-for-query-{query}&quot;:&quot;We&#39;re sorry you are not finding the results you wanted for &lt;strong&gt;{query}&lt;/strong&gt;&quot;,&quot;Enable Google Fallback Mixing&quot;:&quot;Enable Google Fallback Mixing&quot;,&quot;serp-fallback-cta-desc&quot;:&quot;For queries where Brave Search is not yet refined, your browser will anonymously check Google for the same query, mix the results for you and send the query data back to us so we can improve Brave Search for everyone.&quot;}}" defer="true">
+</script>
+
+<script id="js-filters" src="./paranteza_files/dacf2019615e950dc5c372602ac8ef8a10b9c63c7258516dfa67d2efe44650ac-main.bundle.js.download" data="{&quot;is_pc&quot;:true,&quot;page&quot;:&quot;images&quot;,&quot;indepMetric&quot;:0,&quot;i18n&quot;:{&quot;Info&quot;:&quot;Info&quot;,&quot;Tools&quot;:&quot;Tools&quot;,&quot;Response took {seconds} seconds&quot;:&quot;Response took {responseTime} seconds&quot;,&quot;Learn more&quot;:&quot;Learn more&quot;,&quot;All results from Brave&quot;:&quot;All results from Brave&quot;,&quot;x% of results mixed from third-parties&quot;:&quot;{thirdPartyPercentage}% of results mixed from third-parties&quot;,&quot;All regions&quot;:&quot;All regions&quot;,&quot;Argentina&quot;:&quot;Argentina&quot;,&quot;Australia&quot;:&quot;Australia&quot;,&quot;Austria&quot;:&quot;Austria&quot;,&quot;Belgium&quot;:&quot;Belgium&quot;,&quot;Brazil&quot;:&quot;Brazil&quot;,&quot;Canada&quot;:&quot;Canada&quot;,&quot;Chile&quot;:&quot;Chile&quot;,&quot;Country&quot;:&quot;Country&quot;,&quot;Time&quot;:&quot;Time&quot;,&quot;Sizes&quot;:&quot;Sizes&quot;,&quot;Types&quot;:&quot;Types&quot;,&quot;Resolution&quot;:&quot;Resolution&quot;,&quot;Length&quot;:&quot;Length&quot;,&quot;Layouts&quot;:&quot;Layouts&quot;,&quot;Colors&quot;:&quot;Colors&quot;,&quot;License&quot;:&quot;License&quot;,&quot;Denmark&quot;:&quot;Denmark&quot;,&quot;Finland&quot;:&quot;Finland&quot;,&quot;France&quot;:&quot;France&quot;,&quot;Germany&quot;:&quot;Germany&quot;,&quot;Hong Kong&quot;:&quot;Hong Kong&quot;,&quot;India&quot;:&quot;India&quot;,&quot;Indonesia&quot;:&quot;Indonesia&quot;,&quot;Italy&quot;:&quot;Italy&quot;,&quot;Japan&quot;:&quot;Japan&quot;,&quot;Korea&quot;:&quot;Korea&quot;,&quot;Malaysia&quot;:&quot;Malaysia&quot;,&quot;Mexico&quot;:&quot;Mexico&quot;,&quot;Netherlands&quot;:&quot;Netherlands&quot;,&quot;New Zealand&quot;:&quot;New Zealand&quot;,&quot;Norway&quot;:&quot;Norway&quot;,&quot;China&quot;:&quot;China&quot;,&quot;Poland&quot;:&quot;Poland&quot;,&quot;Portugal&quot;:&quot;Portugal&quot;,&quot;Philippines&quot;:&quot;Philippines&quot;,&quot;Russia&quot;:&quot;Russia&quot;,&quot;Saudi Arabia&quot;:&quot;Saudi Arabia&quot;,&quot;South Africa&quot;:&quot;South Africa&quot;,&quot;Spain&quot;:&quot;Spain&quot;,&quot;Sweden&quot;:&quot;Sweden&quot;,&quot;Switzerland&quot;:&quot;Switzerland&quot;,&quot;Taiwan&quot;:&quot;Taiwan&quot;,&quot;Turkey&quot;:&quot;Turkey&quot;,&quot;United Kingdom&quot;:&quot;United Kingdom&quot;,&quot;United States&quot;:&quot;United States&quot;,&quot;clear-verb&quot;:&quot;Clear&quot;,&quot;Safe search&quot;:&quot;Safe search&quot;,&quot;Any time&quot;:&quot;Any time&quot;,&quot;Past day&quot;:&quot;Past day&quot;,&quot;Past week&quot;:&quot;Past week&quot;,&quot;Past month&quot;:&quot;Past month&quot;,&quot;Past year&quot;:&quot;Past year&quot;,&quot;Custom&quot;:&quot;Custom&quot;,&quot;Custom range&quot;:&quot;Custom range&quot;,&quot;Choose date range&quot;:&quot;Choose date range&quot;,&quot;Start date&quot;:&quot;Start date&quot;,&quot;End date&quot;:&quot;End date&quot;,&quot;Search&quot;:&quot;Search&quot;,&quot;Moderate&quot;:&quot;Moderate&quot;,&quot;Strict&quot;:&quot;Strict&quot;,&quot;Off&quot;:&quot;Off&quot;,&quot;All sizes&quot;:&quot;All sizes&quot;,&quot;Small&quot;:&quot;Small&quot;,&quot;Medium&quot;:&quot;Medium&quot;,&quot;Large&quot;:&quot;Large&quot;,&quot;Wallpaper&quot;:&quot;Wallpaper&quot;,&quot;All types&quot;:&quot;All types&quot;,&quot;Photograph&quot;:&quot;Photograph&quot;,&quot;Clipart&quot;:&quot;Clipart&quot;,&quot;Animated GIF&quot;:&quot;Animated GIF&quot;,&quot;Transparent&quot;:&quot;Transparent&quot;,&quot;All layouts&quot;:&quot;All layouts&quot;,&quot;Square&quot;:&quot;Square&quot;,&quot;Tall&quot;:&quot;Tall&quot;,&quot;Wide&quot;:&quot;Wide&quot;,&quot;All colors&quot;:&quot;All colors&quot;,&quot;Black and white&quot;:&quot;Black and white&quot;,&quot;Color only&quot;:&quot;Color only&quot;,&quot;Red&quot;:&quot;Red&quot;,&quot;Orange&quot;:&quot;Orange&quot;,&quot;Yellow&quot;:&quot;Yellow&quot;,&quot;Green&quot;:&quot;Green&quot;,&quot;Blue&quot;:&quot;Blue&quot;,&quot;Purple&quot;:&quot;Purple&quot;,&quot;Pink&quot;:&quot;Pink&quot;,&quot;Brown&quot;:&quot;Brown&quot;,&quot;Black&quot;:&quot;Black&quot;,&quot;Gray&quot;:&quot;Gray&quot;,&quot;Teal&quot;:&quot;Teal&quot;,&quot;White&quot;:&quot;White&quot;,&quot;All licenses&quot;:&quot;All licenses&quot;,&quot;Public Domain&quot;:&quot;Public Domain&quot;,&quot;Free to Share and Use&quot;:&quot;Free to Share and Use&quot;,&quot;Free to Share and Use Commercially&quot;:&quot;Free to Share and Use Commercially&quot;,&quot;Free to Modify, Share and Use&quot;:&quot;Free to Modify, Share and Use&quot;,&quot;Free to Modify, Share and Use Commercially&quot;:&quot;Free to Modify, Share and Use Commercially&quot;,&quot;Any resolution&quot;:&quot;Any resolution&quot;,&quot;1080p&quot;:&quot;1080p&quot;,&quot;720p&quot;:&quot;720p&quot;,&quot;480p&quot;:&quot;480p&quot;,&quot;360p&quot;:&quot;360p&quot;,&quot;Any duration&quot;:&quot;Any duration&quot;,&quot;Short (less than 5 min)&quot;:&quot;Short (less than 5 min)&quot;,&quot;Medium (5 - 20 min)&quot;:&quot;Medium (5 - 20 min)&quot;,&quot;Long (over 20 min)&quot;:&quot;Long (over 20 min)&quot;,&quot;Anonymous local results&quot;:&quot;Anonymous local results&quot;,&quot;anonymous_local_results_description_short&quot;:&quot;Location information is derived from your IP address for more accurate results. It&#39;s stored only on your device. Brave never stores your IP or geo coordinates&quot;,&quot;Set manually&quot;:&quot;Set manually&quot;,&quot;Location set manually&quot;:&quot;Location set manually&quot;,&quot;Set location manually&quot;:&quot;Set location manually&quot;,&quot;No location&quot;:&quot;No location&quot;,&quot;Clear and get current location&quot;:&quot;Clear and get current location&quot;,&quot;Disable&quot;:&quot;Disable&quot;,&quot;Enable anonymous local results&quot;:&quot;Enable anonymous local results&quot;,&quot;On&quot;:&quot;On&quot;,&quot;Before-{date}&quot;:&quot;From {date}&quot;,&quot;From-{start_date}-to-{end_date}&quot;:&quot;From {start_date} to {end_date}&quot;,&quot;Move map to adjust current location&quot;:&quot;Move map to adjust current location&quot;,&quot;Done&quot;:&quot;Done&quot;}}" defer="true">
+</script>
+
+<script id="js-feedback" src="./paranteza_files/3addfc90fd8d3def1d39819cfd0e486b26171719288dd0365a572e8115b5ae10-main.bundle.js.download" data="{&quot;is_mobile&quot;:false,&quot;page&quot;:&quot;images&quot;,&quot;i18n&quot;:{&quot;Thank you!&quot;:&quot;Thank you!&quot;,&quot;How were the search results?&quot;:&quot;How were the search results?&quot;,&quot;Help us improve Brave Search&quot;:&quot;Help us improve Brave Search&quot;,&quot;What do you think of the information shown?&quot;:&quot;What do you think of the information shown?&quot;,&quot;Comments or suggestions?&quot;:&quot;Comments or suggestions?&quot;,&quot;Submit&quot;:&quot;Submit&quot;,&quot;Feedback&quot;:&quot;Feedback&quot;}}" defer="true">
+</script>
+
+<script id="js-settings" src="./paranteza_files/a901101f213f83c1efb966b789e40197d9d4b2ce16a1eeaa002f8c9be53eceea-main.bundle.js.download" data="{&quot;is_mobile&quot;:false,&quot;default_possible&quot;:true,&quot;i18n&quot;:{&quot;See all settings&quot;:&quot;See all settings&quot;,&quot;Appearance&quot;:&quot;Appearance&quot;,&quot;Theme&quot;:&quot;Theme&quot;,&quot;Change the look of Brave Search&quot;:&quot;Change the look of Brave Search&quot;,&quot;General&quot;:&quot;General&quot;,&quot;Set language&quot;:&quot;Set language&quot;,&quot;Set as default&quot;:&quot;Set as default&quot;,&quot;Set default&quot;:&quot;Set default&quot;,&quot;Set Brave Search as default&quot;:&quot;Set Brave Search as default&quot;,&quot;Preferred language for Brave Search&quot;:&quot;Preferred language for Brave Search&quot;,&quot;Coming soon&quot;:&quot;Coming soon&quot;,&quot;Open links in new tab&quot;:&quot;Open links in new tab&quot;,&quot;olnt-description&quot;:&quot;Links clicked from search will open in a new browser tab&quot;,&quot;Learn more&quot;:&quot;Learn more&quot;,&quot;Your results independence&quot;:&quot;Your results independence&quot;,&quot;Global results independence&quot;:&quot;Global results independence&quot;,&quot;% of search results from Brave Index&quot;:&quot;% of search results from Brave Index&quot;,&quot;indep-metric-more-searches&quot;:&quot;More searches are needed to calculate your value&quot;,&quot;Info&quot;:&quot;Info&quot;,&quot;Tools&quot;:&quot;Tools&quot;,&quot;Response took {seconds} seconds&quot;:&quot;Response took {responseTime} seconds&quot;,&quot;All results from Brave&quot;:&quot;All results from Brave&quot;,&quot;x% of results mixed from third-parties&quot;:&quot;{thirdPartyPercentage}% of results mixed from third-parties&quot;,&quot;All regions&quot;:&quot;All regions&quot;,&quot;Argentina&quot;:&quot;Argentina&quot;,&quot;Australia&quot;:&quot;Australia&quot;,&quot;Austria&quot;:&quot;Austria&quot;,&quot;Belgium&quot;:&quot;Belgium&quot;,&quot;Brazil&quot;:&quot;Brazil&quot;,&quot;Canada&quot;:&quot;Canada&quot;,&quot;Chile&quot;:&quot;Chile&quot;,&quot;Denmark&quot;:&quot;Denmark&quot;,&quot;Finland&quot;:&quot;Finland&quot;,&quot;France&quot;:&quot;France&quot;,&quot;Germany&quot;:&quot;Germany&quot;,&quot;Hong Kong&quot;:&quot;Hong Kong&quot;,&quot;India&quot;:&quot;India&quot;,&quot;Indonesia&quot;:&quot;Indonesia&quot;,&quot;Italy&quot;:&quot;Italy&quot;,&quot;Japan&quot;:&quot;Japan&quot;,&quot;Korea&quot;:&quot;Korea&quot;,&quot;Malaysia&quot;:&quot;Malaysia&quot;,&quot;Mexico&quot;:&quot;Mexico&quot;,&quot;Netherlands&quot;:&quot;Netherlands&quot;,&quot;New Zealand&quot;:&quot;New Zealand&quot;,&quot;Norway&quot;:&quot;Norway&quot;,&quot;China&quot;:&quot;China&quot;,&quot;Poland&quot;:&quot;Poland&quot;,&quot;Portugal&quot;:&quot;Portugal&quot;,&quot;Philippines&quot;:&quot;Philippines&quot;,&quot;Russia&quot;:&quot;Russia&quot;,&quot;Saudi Arabia&quot;:&quot;Saudi Arabia&quot;,&quot;South Africa&quot;:&quot;South Africa&quot;,&quot;Spain&quot;:&quot;Spain&quot;,&quot;Sweden&quot;:&quot;Sweden&quot;,&quot;Switzerland&quot;:&quot;Switzerland&quot;,&quot;Taiwan&quot;:&quot;Taiwan&quot;,&quot;Turkey&quot;:&quot;Turkey&quot;,&quot;United Kingdom&quot;:&quot;United Kingdom&quot;,&quot;United States&quot;:&quot;United States&quot;,&quot;clear-verb&quot;:&quot;Clear&quot;,&quot;Safe search&quot;:&quot;Safe search&quot;,&quot;Search&quot;:&quot;Search&quot;,&quot;Moderate&quot;:&quot;Moderate&quot;,&quot;Strict&quot;:&quot;Strict&quot;,&quot;Off&quot;:&quot;Off&quot;,&quot;Make Brave Search default&quot;:&quot;Make Brave Search default&quot;,&quot;Show more&quot;:&quot;Show more&quot;,&quot;Search settings&quot;:&quot;Search settings&quot;,&quot;Quick settings&quot;:&quot;Quick settings&quot;,&quot;Search results independence&quot;:&quot;Search results independence&quot;,&quot;Search results independence description&quot;:&quot;&lt;strong&gt;Search results delivered solely from Brave Index&lt;/strong&gt; as opposed to mixing with big tech index. Private, not tracked.&quot;,&quot;All searches across all Brave Search users&quot;:&quot;All searches across all Brave Search users&quot;,&quot;System&quot;:&quot;System&quot;,&quot;Light&quot;:&quot;Light&quot;,&quot;Dark&quot;:&quot;Dark&quot;,&quot;Country&quot;:&quot;Country&quot;,&quot;Support independent search&quot;:&quot;Support independent search&quot;,&quot;Get early access to ad-free search&quot;:&quot;Get early access to ad-free search&quot;,&quot;Go Premium&quot;:&quot;Go Premium&quot;,&quot;You&#39;re a Brave Supporter&quot;:&quot;You&#39;re a Brave Supporter&quot;,&quot;You&#39;re a Brave Supporter_formatted&quot;:&quot;You&#39;re a &lt;span class=&#39;brave-supporter__label&#39;&gt;Brave Supporter&lt;/span&gt;&quot;,&quot;Manage&quot;:&quot;Manage&quot;}}" defer="true">
+</script>
+
+<script id="js-shared" src="./paranteza_files/18471d6e9f8f4129d86ccf45ca1bb118de4322f08cb3d7d7f4da78902aaec1d0-main.bundle.js.download" data="{&quot;reproducible_parameters&quot;:{&quot;country&quot;:&quot;all&quot;},&quot;i18n&quot;:{&quot;Learn more&quot;:&quot;Learn more&quot;,&quot;Feedback&quot;:&quot;Feedback&quot;,&quot;Help us improve Brave Search&quot;:&quot;Help us improve Brave Search&quot;,&quot;What do you think of the information shown?&quot;:&quot;What do you think of the information shown?&quot;,&quot;This is helpful&quot;:&quot;This is helpful&quot;,&quot;This isn&#39;t relevant&quot;:&quot;This isn&#39;t relevant&quot;,&quot;Something is wrong&quot;:&quot;Something is wrong&quot;,&quot;This isn&#39;t useful&quot;:&quot;This isn&#39;t useful&quot;,&quot;The location is wrong&quot;:&quot;The location is wrong&quot;,&quot;The weather is wrong&quot;:&quot;The weather is wrong&quot;,&quot;The currency is wrong&quot;:&quot;The currency is wrong&quot;,&quot;The currency rate is wrong&quot;:&quot;The currency rate is wrong&quot;,&quot;The cryptocurrency is wrong&quot;:&quot;The cryptocurrency is wrong&quot;,&quot;The cryptocurrency price is wrong&quot;:&quot;The cryptocurrency price is wrong&quot;,&quot;The unit is wrong&quot;:&quot;The unit is wrong&quot;,&quot;The times are wrong&quot;:&quot;The times are wrong&quot;,&quot;The stock is wrong&quot;:&quot;The stock is wrong&quot;,&quot;The stock price is wrong&quot;:&quot;The stock price is wrong&quot;,&quot;Comments or suggestions?&quot;:&quot;Comments or suggestions?&quot;,&quot;Submit&quot;:&quot;Submit&quot;,&quot;Thank you for your feedback!&quot;:&quot;Thank you for your feedback!&quot;,&quot;Your feedback helps us improve the Brave Search experience for everyone&quot;:&quot;Your feedback helps us improve the Brave Search experience for everyone&quot;}}" defer="true">
+</script>
+
+<script id="js-telemetry" src="./paranteza_files/bc5bea8367f84a54c7e84fbc2abf02daeb649594e4d50d520a0b0e0a8ac7c528-main.bundle.js.download" data="{&quot;os&quot;:&quot;Windows&quot;,&quot;browser&quot;:&quot;Chrome&quot;,&quot;is_dev&quot;:false}" defer="true">
+</script>
+
+<script id="js-paid" src="./paranteza_files/8c7279fa7cbdbcefc25ea8f6a77f6d613d4e631f5f661937648c4f1607a0afb2-main.bundle.js.download" data="{&quot;i18n&quot;:{&quot;Thanks for supporting independent search!&quot;:&quot;Thanks for supporting independent search!&quot;,&quot;You now have full access to Brave Search&quot;:&quot;You now have full access to Brave Search Premium, and ad-free search results. Enjoy!&quot;,&quot;You&#39;re a Brave Supporter&quot;:&quot;You&#39;re a Brave Supporter&quot;,&quot;You&#39;re a Brave Supporter_formatted&quot;:&quot;You&#39;re a &lt;span class=&#39;brave-supporter__label&#39;&gt;Brave Supporter&lt;/span&gt;&quot;}}" defer="true">
+</script>
+
+
+        <script src="./paranteza_files/56efd4d16e597cfa65aa173ae285e70f08e1fb73d9166e3f3fee63ee592cf2e0-sw.bundle.js.download" defer="true"></script>
+    
+          
+</body></html>

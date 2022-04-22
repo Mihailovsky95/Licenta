@@ -1,0 +1,25 @@
+{
+  "name": "licenta",
+  "version": "1.0.0",
+  "description": "Platforma",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mihail Urzica",
+  "license": "ISC",
+  "dependencies": {
+    "alert": "^5.0.10",
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.20.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.3",
+    "lodash": "^4.17.21",
+    "mongo": "^0.1.0",
+    "mongoose": "^6.2.10",
+    "mongoose-encryption": "^2.1.2",
+    "node": "^17.7.2",
+    "nodemon": "^2.0.15",
+    "popups": "^1.1.3"
+  }
+}
