@@ -1,3 +1,4 @@
+require('dotenv').config();
 const express = require("express");
 const bodyParser = require("body-parser");
 const mongoose = require("mongoose");
@@ -10,6 +11,7 @@ app.set('view engine', 'ejs');
 app.use(bodyParser.urlencoded({extended: true}));
 app.use(express.static("public"));
 
+
 mongoose.connect("mongodb+srv://admin-mihail:myDatabase@myowncluster.ajqri.mongodb.net/platformDB", { useNewUrlParser: true });
 // mongo "mongodb+srv://myowncluster.ajqri.mongodb.net/myFirstDatabase" --username admin-mihail
 
@@ -20,9 +22,9 @@ const userSchema = new mongoose.Schema ({
   confirmPassword: {type: String, required:true}
 })
 
-const secret = "ThisIsOurLittleSecret";
 
-userSchema.plugin(encrypt, {secret: secret, encryptedFields: ['password', 'confirmPassword']});
+
+userSchema.plugin(encrypt, {secret: process.env.secret, encryptedFields: ['password', 'confirmPassword']});
 
 const articleSchema = {
   title: String,
