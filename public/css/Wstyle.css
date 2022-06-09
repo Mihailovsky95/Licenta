@@ -1,8 +1,5 @@
-* {
-   margin: 0;
-   padding: 0;
-
-
+*{
+  padding:0;
 }
 
 body {
@@ -11,57 +8,45 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
   font-family: 'Merriweather Sans', sans-serif;
-  width:100%;
-  resize: both;
-  overflow: scroll;
-  min-height: 150vh;
+  min-height: 200vh;
 }
-
-.start-img{
-  position:relative;
+.content{
+  width:60%;
+  height:200px;
+  float: left;
   display:inline-block;
-  left:100vh;
-
-}
-
-.top-content{
-  width:500px;
-  height: 300px;
-  text-align: center;
-}
-
-.disp-mod{
-  position: relative;
-  display: inline-block;
-  left:100%;
-  top:50px;
 
 }
 
 .middle-content{
-  width:500px;
-  height: 300px;
+  width:30%;
+  height:200px;
+  float: left;
+  display:inline-block;
   position: relative;
-  display: inline-block;
-  left:10%;
+  top:100px;
+}
 
+.bottom-content{
+  width:30%;
+  height:200px;
+  float: left;
+  display:inline-block;
+  position: relative;
+  top:300px;
+}
+.start-img{
+  position:absolute;
+  display:inline-block;
+  float: right;
+  right:600px;
+  top:50px;
 }
 
 .middle-img {
   position: relative;
   display: inline-block;
   float: left;
-  top:20px;
-
-}
-
-.bottom-content{
-  width:600px;
-  height: 300px;
-  position: relative;
-  display: inline-block;
-  left:100px;
-  top:300px;
 
 }
 
@@ -70,6 +55,14 @@ body {
   display: inline-block;
   float: left;
   top:20px;
+}
+
+.disp-mod{
+  position: absolute;
+  display: inline-block;
+  float: left;
+  left:400px;
+  top:80px;
 }
 
 .comercial{
@@ -84,7 +77,6 @@ body {
   text-align: center;
 }
 
-
 .Log-img{
 
   position: relative;
@@ -96,13 +88,15 @@ body {
 .auxilar-content{
   width:70%;
   height: 100px;
+  padding: 20px;
   position: relative;
   display: inline-block;
   left:100px;
-  top:200px;
+  top:350px;
 }
 
 .typewriter h1 {
+  font-size: 20px;
   display: inline-block;
   position: relative;
   top:30px;
@@ -136,10 +130,9 @@ body {
    width: 30%;
    height: 50px;
    display: inline-block;
-   position: relative;
+   position: absolute;
    top:200px;
    float: right;
-   right: 300px;
    border-radius: 20px;
 }
 
@@ -237,7 +230,7 @@ form.item {
 
 button {
   min-height: 50px;
-  width: 50px;
+  width: 100px;
   border-radius: 50%;
   border-color: transparent;
   background-color: #A683E3;
@@ -252,10 +245,12 @@ input[type="text"] {
   height: 60px;
   top: 10px;
   border: none;
+  border-bottom: solid;
+  border-color: #A683E3;
   background: transparent;
   font-size: 20px;
   font-weight: 200;
-  width: 313px;
+  width: 200px;
 }
 
 input[type="text"]:focus {
@@ -266,4 +261,76 @@ input[type="text"]:focus {
 ::placeholder {
   color: white;
   opacity: 1;
+}
+
+.user-font{
+  font-family:"Oleo Script Swash Caps";
+  font-size: 400%;
+}
+
+.move-right{
+  left:16px;
+}
+
+.move-text-center{
+  position: relative;
+  left:300px;
+  text-align: center;
+  font-size: 20px;
+}
+
+.box2 {
+  height: 200px;
+  position: relative;
+  max-width: 800px;
+  margin: 50px auto;
+  background: #fff;
+  border-radius: 5px;
+  box-shadow: 5px 5px 15px -5px rgba(0, 0, 0, 0.3);
+}
+
+.center-m{
+  position: relative;
+  top:70px;
+
+}
+
+.resize{
+  position: relative;
+  left:600px;
+  width:250px;
+  height: 150px;
+}
+
+.videos-uploaded{
+  position: relative;
+  top:70px;
+  left:300px;
+}
+
+.w {
+  width: 300px;
+  height: 200px;
+
+}
+
+.s {
+  width: 300px;
+  height: 225px;
+}
+
+.picpos{
+  position: relative;
+  top:70px;
+  left:200px;
+
+}
+
+.sing-vid{
+  padding:50px;
+}
+
+.unique{
+  top:80px;
+  height: 490px;
 }

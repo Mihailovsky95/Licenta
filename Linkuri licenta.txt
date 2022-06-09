@@ -1,0 +1,12 @@
+https://ejs.co/
+https://ejs.co/#docs
+https://www.w3schools.com/nodejs/nodejs_intro.asp
+https://nodejs.org/en/about/
+https://www.geeksforgeeks.org/use-ejs-as-template-engine-in-node-js/
+https://expressjs.com/en/5x/api.html
+https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics
+https://developer.mozilla.org/en-US/docs/Web/CSS
+https://www.scrigroup.com/calculatoare/LUCRARE-DE-DIPLOMA-Crearea-si-54677.php
+https://www.npmjs.com/package/body-parser
+https://developer.mozilla.org/de/docs/Web
+https://frontendmasters.com/guides/front-end-handbook/2019/

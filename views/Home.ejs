@@ -1,7 +1,7 @@
 <%- include('partials/header'); -%>
 <div class="container">
   <div class="interface col-12 mt-2 d-flex justify-content-center">
-    <h1>
+    <h1 class="user-font">
        <%="Welcome " + userName%>
     </h1>
   </div>
@@ -25,12 +25,6 @@
 
   <div >
     <img class="upload-v1" style="display:none;" id="js-trigger" src="https://4.imimg.com/data4/YO/TD/MY-8126412/data-storage-management-500x500.jpg">
-      <div class ="upload-v">
-      <form action="upload.php" style="display:none;" method="post" enctype="multipart/form-data" id="submit-video">
-        <input type="file" name="my_video" id="js-my_video">
-        <input type="submit" id="js-submit" name="submit" value="Upload">
-      </form>
-    </div>
     <div class="col-12  centerMe" style="margin-top:5rem;">
       <div class="row">
         <div class="col-6">
