@@ -54,7 +54,7 @@ function getUser(id, callBack){
 mongoose.connect("mongodb+srv://admin-mihail:myDatabase@myowncluster.ajqri.mongodb.net/platformDB", { useNewUrlParser: true, useUnifiedTopology: true});
 // mongo "mongodb+srv://myowncluster.ajqri.mongodb.net/myFirstDatabase" --username admin-mihail
 
-app.use(favicon(path.join(__dirname,'public','imagini','favicon.ico')));
+app.use('/favicon.ico', express.static('imagini/favicon.ico'));
 
 app.get("/", function(req, res) {
 res.render("startPage");
