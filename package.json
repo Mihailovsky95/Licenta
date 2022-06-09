@@ -13,7 +13,7 @@
   "author": "",
   "license": "ISC",
   "engines": {
-    "node": "16.14.0"
+    "node": "16.x"
   },
   "bugs": {
     "url": "https://github.com/Mihailovsky95/Licenta/issues"
@@ -22,6 +22,7 @@
   "dependencies": {
     "async": "^3.2.4",
     "body-parser": "^1.20.0",
+    "dicer": "^0.3.1",
     "dotenv": "^16.0.0",
     "ejs": "^3.1.7",
     "express": "^4.18.1",
@@ -34,6 +35,7 @@
     "got": "^11.8.3",
     "http": "^0.0.1-security",
     "https": "^1.0.0",
+    "jquery": "^3.6.0",
     "jsdom": "^19.0.0",
     "lodash": "^4.17.21",
     "lodash.capitalize": "^4.2.1",
@@ -41,7 +43,7 @@
     "mongo": "^0.1.0",
     "mongod": "^2.0.0",
     "mongodb": "^4.5.0",
-    "mongoose": "^6.3.2",
+    "mongoose": "6.3.6",
     "mongosh": "^0.0.1",
     "multer": "^1.4.4",
     "node": "^17.7.2",

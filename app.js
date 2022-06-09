@@ -7,7 +7,6 @@ const ejs = require("ejs");
 const _ = require("lodash");
 const app = express();
 const md5 = require("md5");
-const http=require("http");
 const expressSession = require("express-session");
 const fs = require("fs");
 const multer = require('multer');
