@@ -74,7 +74,7 @@ app.post("/welcome", function(req, res){
       if(foundUser){
         if(foundUser.password === password){
           req.session.user_id = foundUser._id;
-          res.render("home", {userName: foundUser.username, "isLogin": req.session.user_id ? true : false});
+          res.render("home", {RegisteredName: foundUser.username, "isLogin": req.session.user_id ? true : false});
         }else{
           res.send("Password incorrect");
         }
@@ -87,10 +87,9 @@ app.post("/register", function(req, res){
 
   reqEmail =  _._.toLower(req.body.remail);
   reqUser1 = _._.toLower(req.body.rusername);
-  console.log(reqUser1);
   reqUser  = _.capitalize(reqUser1);
-  console.log(reqUser);
   criptPass = md5(req.body.rpassword);
+
 
   User.findOne({email: reqEmail}, function(err, foundUser){
      if (foundUser == null) {
@@ -99,17 +98,19 @@ app.post("/register", function(req, res){
          email: reqEmail,
          password: criptPass,
        })
-        newUser.save(function(err){
+        newUser.save(function(err, foundUser){
           if(err){
             console.log(err);
           }else{
-            res.render("home", {userName: _.trim(reqUser)});
+            req.session.user_id = foundUser._id;
+            res.render("home", {RegisteredName: _.trim(reqUser)});
           }
       })
-     }else{
+   }else{
        res.send("Email allready exists");
      }
   })
+
 })
 
 app.get("/register", function(req, res) {
@@ -133,12 +134,7 @@ app.get("/contact", function(req, res){
 })
 app.get("/articles", function(req, res) {
   if (req.session.user_id){
-    res.render("home");
-  }else{
-    res.render("Articles");
-  }
-
-    Article.find({}, function(err, foundArticles){
+      Article.find({}, function(err, foundArticles){
     if (foundArticles.length === 0) {
       Article.insertMany(defaultArticles, function(err){
         if (err) {
@@ -152,6 +148,9 @@ app.get("/articles", function(req, res) {
       res.render("Articles", {ArtTitle: "Usefull Documentation", newListArt: foundArticles});
     }
   })
+ }else{
+  res.render("login");
+ }
  })
 
  app.get("/upload", function(req, res){
@@ -390,5 +389,5 @@ if(port == null || port == ""){
 }
 
 app.listen(port, function() {
-  console.log("Server started");
+  console.log("Server has started");
 });
