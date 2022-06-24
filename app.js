@@ -1,36 +1,44 @@
 require('dotenv').config();
 var favicon = require('serve-favicon');
 const express = require("express");
+const expressSession = require("express-session");
 const bodyParser = require("body-parser");
 const mongoose = require("mongoose");
 const ejs = require("ejs");
+const handlebars = require("express3-handlebars").create();
 const _ = require("lodash");
-const app = express();
-const md5 = require("md5");
-const expressSession = require("express-session");
+const cookieParser = require("cookie-parser");
+const bcrypt = require("bcrypt");
+const saltRounds = 10;
+const flash = require("connect-flash");
 const fs = require("fs");
 const multer = require('multer');
 const path = require('path');
 const uuid = require('uuid').v4;
 const url = require('url');
 const Video = require('./Modules/Video');
-const Article = require('./Modules/Article');
+const {Article, defaultArticles} = require('./Modules/Article');
 const User = require('./Modules/User');
 const initFolder = 'E:/licenta/uploads/';
 var capitalize = require('lodash.capitalize');
-
+var messageArt = "";
+const app = express();
 
 app.set('view engine', 'ejs');
 app.use(bodyParser.urlencoded({extended: true}));
 app.use(bodyParser.json());
 app.use(express.static("public"));
 app.use(express.static("uploads"));
+app.use(cookieParser("secretStringForCookies"));
 app.use(expressSession({
+  "cookie": {maxAge: null},
   "key":"user_id",
   "secret":"User secret Object Id",
   "resave":true,
   "saveUninitialized":true
 }));
+app.use(flash());
+
 
 const storage = multer.diskStorage({
    destination: (req, file, cb) => {
@@ -60,44 +68,63 @@ res.render("startPage");
 })
 
 app.get("/login", function(req, res) {
-res.render("login");
+  res.render("login", {falseCredential: messageArt});
+  messageArt = "";
 })
+
 
 app.post("/welcome", function(req, res){
 
   const username = req.body.email;
-  const password = md5(req.body.password);
+  const password = req.body.password;
 
   User.findOne({email: username}, function(err, foundUser){
     if(foundUser == null){
-      res.send("Email does not exists");
+      messageArt = "You entered a wrong E-mail";
+      res.redirect("login")
     }else{
       if(foundUser){
-        if(foundUser.password === password){
-          req.session.user_id = foundUser._id;
-          res.render("home", {RegisteredName: foundUser.username, "isLogin": req.session.user_id ? true : false});
-        }else{
-          res.send("Password incorrect");
+        bcrypt.compare(password, foundUser.password, function(err, result) {
+          if(result === true){
+            req.session.user_id = foundUser._id;
+            res.render("home", {RegisteredName: foundUser.username, "isLogin": req.session.user_id ? true : false})
+          }else{
+            messageArt = "You entered a wrong Password";
+            res.redirect("login")
+            }
+          })
         }
       }
+    })
+})
+app.get("/welcome", function(req, res){
+
+  if (req.session.user_id){
+    User.findOne({_id: req.session.user_id}, function(err, foundUser){
+      if(foundUser == null){
+        res.send("Cant find User try again");
+      }else{
+        res.render("home", {RegisteredName: foundUser.username});
+        }
+      })
     }
-  })
 })
 
 app.post("/register", function(req, res){
 
   reqEmail =  _._.toLower(req.body.remail);
   reqUser1 = _._.toLower(req.body.rusername);
-  reqUser  = _.capitalize(reqUser1);
-  criptPass = md5(req.body.rpassword);
+  reqUser  = _.startCase(reqUser1);
+  criptPass = req.body.rpassword;
 
 
   User.findOne({email: reqEmail}, function(err, foundUser){
      if (foundUser == null) {
+     bcrypt.hash(criptPass, saltRounds, function(err, hash) {
        const newUser = new User ({
          username: reqUser,
          email: reqEmail,
-         password: criptPass,
+         password: hash,
        })
         newUser.save(function(err, foundUser){
           if(err){
@@ -107,30 +134,26 @@ app.post("/register", function(req, res){
             res.render("home", {RegisteredName: _.trim(reqUser)});
           }
       })
+    })
    }else{
-       res.send("Email allready exists");
+       messageArt = "E-mail allready exists";
+       res.redirect("register");
      }
   })
-
 })
 
 app.get("/register", function(req, res) {
-res.render("register");
+res.render("register", {falseCredential: messageArt});
+messageArt = "";
 })
 
-app.get("/welcome", function(req, res){
-  if (req.session.user_id){
-    res.render("home");
-  }else{
-    res.render("login");
-  }
-  })
+
 
 app.get("/contact", function(req, res){
   if (req.session.user_id){
     res.render("contact");
   }else{
-    res.render("login");
+    res.redirect("login");
   }
 })
 app.get("/articles", function(req, res) {
@@ -138,42 +161,40 @@ app.get("/articles", function(req, res) {
       Article.find({}, function(err, foundArticles){
     if (foundArticles.length === 0) {
       Article.insertMany(defaultArticles, function(err){
-        if (err) {
+          if (err) {
           console.log(err);
         } else {
           console.log("Successfully savevd default items to DB.");
         }
      })
-     res.redirect("/articles");
+      res.redirect("/articles");
     }else {
-      res.render("Articles", {ArtTitle: "Usefull Documentation", newListArt: foundArticles});
+      res.render("Articles", {ArtTitle: "Usefull Documentation", newListArt: foundArticles, messageAlert: messageArt});
+      messageArt="";
     }
   })
- }else{
-  res.render("login");
- }
- })
-
- app.get("/upload", function(req, res){
-   if (req.session.user_id){
-     res.render("upload")
-   }else{
-     res.render("login")
-   }
- })
-
- app.get("/view", function(req, res){
-   if (req.session.user_id){
-     res.render("view")
-   }else{
-     res.render("login")
-   }
- })
-
- app.get("/logout", function(req, res){
-  req.session.destroy();
+}else{
   res.redirect("login");
+ }
+})
+
+ app.post("/delete", function(req, res){
+   const checkedArticleId = req.body.checkbox;
+
+   Article.find({}, function(err, foundArticles){
+     if (foundArticles.length < 5) {
+       messageArt = "You are not autorized to delete the predefined bookmarks";
+       res.redirect("/articles")
+      } else {
+      Article.findByIdAndRemove(checkedArticleId, function(err){
+       if (!err) {
+         messageArt="Successfully deleted checked item";
+         res.redirect("/articles");
+       }
+     })
+   }
  })
+})
 
  app.post("/articles", function(req, res){
 
@@ -191,198 +212,35 @@ app.get("/articles", function(req, res) {
     res.redirect("/articles");
   })
 
-  app.post("/delete", function(req, res){
-    const checkedArticleId = req.body.checkbox;
-      Article.findByIdAndRemove(checkedArticleId, function(err){
-        if (!err) {
-          console.log("Successfully deleted checked item.");
-          res.redirect("/articles");
-        }
-      })
-    })
+
+
+ app.get("/upload", function(req, res){
+   if (req.session.user_id){
+     res.render("upload")
+   }else{
+     res.redirect("login");
+   }
+ })
+
+ app.get("/views", function(req, res){
+   if (req.session.user_id){
+     res.render("views")
+   }else{
+     res.redirect("login");
+   }
+ })
+
+ app.get("/logout", function(req, res){
+  req.session.destroy();
+  res.redirect("login");
+ })
+
+
 
 
   app.post('/upload', upload.array('avatar'), (req, res) => {
         return res.redirect("upload");
     });
-
-
-
-  app.get("/video1", function(req, res){
-
-    const range = req.headers.range;
-    if (!range) {
-      res.status(400).send("Requires Range header");
-    }
-
-    const videoPath = "E:/licenta/uploads/HTML.mp4";
-    const videoSize = fs.statSync(videoPath).size;
-    const CHUNK_SIZE = 10 ** 6; // 1MB
-    const start = Number(range.replace(/\D/g, ""));
-    const end = Math.min(start + CHUNK_SIZE, videoSize - 1);
-
-// Create headers
-  const contentLength = end - start + 1;
-  const headers = {
-    "Content-Range": `bytes ${start}-${end}/${videoSize}`,
-    "Accept-Ranges": "bytes",
-    "Content-Length": contentLength,
-    "Content-Type": "video/mp4",
-  };
-
-  res.writeHead(206, headers);
-
-  const videoStream = fs.createReadStream(videoPath, { start, end });
-
-  videoStream.pipe(res);
-});
-
-
-app.get("/video2", function(req, res){
-
-    const range = req.headers.range;
-    if (!range) {
-      res.status(400).send("Requires Range header");
-    }
-
- const videoPath = "E:/licenta/uploads/JS1.mp4";
- const videoSize = fs.statSync(videoPath).size;
- const CHUNK_SIZE = 10 ** 6; // 1MB
- const start = Number(range.replace(/\D/g, ""));
- const end = Math.min(start + CHUNK_SIZE, videoSize - 1);
-
-// Create headers
- const contentLength = end - start + 1;
- const headers = {
- "Content-Range": `bytes ${start}-${end}/${videoSize}`,
- "Accept-Ranges": "bytes",
- "Content-Length": contentLength,
- "Content-Type": "video/mp4",
- };
-
- res.writeHead(206, headers);
-
- const videoStream = fs.createReadStream(videoPath, { start, end });
-
- videoStream.pipe(res);
- });
-
-app.get("/video3", function(req, res){
-
-    const range = req.headers.range;
-    if (!range) {
-      res.status(400).send("Requires Range header");
-    }
-
- const videoPath = "E:/licenta/uploads/BTSTR.mp4";
- const videoSize = fs.statSync(videoPath).size;
- const CHUNK_SIZE = 10 ** 6; // 1MB
- const start = Number(range.replace(/\D/g, ""));
- const end = Math.min(start + CHUNK_SIZE, videoSize - 1);
-
-// Create headers
- const contentLength = end - start + 1;
- const headers = {
- "Content-Range": `bytes ${start}-${end}/${videoSize}`,
- "Accept-Ranges": "bytes",
- "Content-Length": contentLength,
- "Content-Type": "video/mp4",
- };
-
- res.writeHead(206, headers);
-
- const videoStream = fs.createReadStream(videoPath, { start, end });
-
- videoStream.pipe(res);
- });
-
-app.get("/video4", function(req, res){
-
-    const range = req.headers.range;
-    if (!range) {
-      res.status(400).send("Requires Range header");
-    }
-
- const videoPath = "E:/licenta/uploads/CSS.mp4";
- const videoSize = fs.statSync(videoPath).size;
- const CHUNK_SIZE = 10 ** 6; // 1MB
- const start = Number(range.replace(/\D/g, ""));
- const end = Math.min(start + CHUNK_SIZE, videoSize - 1);
-
-// Create headers
- const contentLength = end - start + 1;
- const headers = {
- "Content-Range": `bytes ${start}-${end}/${videoSize}`,
- "Accept-Ranges": "bytes",
- "Content-Length": contentLength,
- "Content-Type": "video/mp4",
- };
-
- res.writeHead(206, headers);
-
-const videoStream = fs.createReadStream(videoPath, { start, end });
-
-videoStream.pipe(res);
-});
-
-
-app.get("/video5", function(req, res){
-
-    const range = req.headers.range;
-    if (!range) {
-      res.status(400).send("Requires Range header");
-    }
-
- const videoPath = "E:/licenta/uploads/Nodejs.mp4";
- const videoSize = fs.statSync(videoPath).size;
- const CHUNK_SIZE = 10 ** 6; // 1MB
- const start = Number(range.replace(/\D/g, ""));
- const end = Math.min(start + CHUNK_SIZE, videoSize - 1);
-
-// Create headers
- const contentLength = end - start + 1;
- const headers = {
- "Content-Range": `bytes ${start}-${end}/${videoSize}`,
- "Accept-Ranges": "bytes",
- "Content-Length": contentLength,
- "Content-Type": "video/mp4",
- };
-
-res.writeHead(206, headers);
-
-const videoStream = fs.createReadStream(videoPath, { start, end });
-
-videoStream.pipe(res);
-});
-
-app.get("/video6", function(req, res){
-
-    const range = req.headers.range;
-    if (!range) {
-      res.status(400).send("Requires Range header");
-    }
-
- const videoPath = "E:/licenta/uploads/EJS.mp4";
- const videoSize = fs.statSync(videoPath).size;
- const CHUNK_SIZE = 10 ** 6; // 1MB
- const start = Number(range.replace(/\D/g, ""));
- const end = Math.min(start + CHUNK_SIZE, videoSize - 1);
-
-// Create headers
- const contentLength = end - start + 1;
- const headers = {
- "Content-Range": `bytes ${start}-${end}/${videoSize}`,
- "Accept-Ranges": "bytes",
- "Content-Length": contentLength,
- "Content-Type": "video/mp4",
- };
-
- res.writeHead(206, headers);
-
- const videoStream = fs.createReadStream(videoPath, { start, end });
-
- videoStream.pipe(res);
- });
 
 // let port = process.env.PORT;
 // if(port == null || port == ""){

@@ -1,9 +1,18 @@
 
 <%- include('partials/header'); -%>
+<div class="container">
   <img src="https://www.lifewire.com/thmb/2KYEaloqH6P4xz3c9Ot2GlPLuds=/1920x1080/smart/filters:no_upscale()/cloud-upload-a30f385a928e44e199a62210d578375a.jpg" class="resize">
+
    <form action="/upload" method="post" enctype="multipart/form-data" class="box2">
+     <p style="text-align:center;font-family:cursive; font-size:20px; padding:20px;">
+       Add your own courses and let us promote your ideas.<br />
+       You can let us know if you got something in mind if you upload your video course below.<br />
+       Soon you will get a review on your e-mail.<br />
+       If(you are eligible you will get 10$ per uploaded videocourse).
+     </p><br />
      <label class="move-text-center">Place your video files here</label>
      <input type="file" name="avatar" multiple/ class="center-m" accept="video/*">
      <button class="center-m">Upload</button>
    </form>
+</div>
 <%- include('partials/footer'); -%>

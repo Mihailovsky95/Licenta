@@ -6,8 +6,40 @@ const articleSchema = ({
   description: String
 })
 
-
-
 const Article = new mongoose.model("Article",  articleSchema);
 
-module.exports = Article;
+const htmlArt = new Article ({
+  title: "Html",
+  content:"https://www.w3schools.com/html/",
+  description: "HTML is the standard markup language for Web pages."
+})
+
+
+const cssArt = new Article ({
+  title: "CSS",
+  content:"https://www.w3schools.com/css/",
+  description: "CSS is the language we use to style an HTML document."
+})
+
+
+const jsArt = new Article ({
+  title: "JS",
+  content:"https://www.javascript.com/",
+  description: "JavaScript este un limbaj de programare orientat obiect bazat pe conceptul prototipurilor. Este folosit mai ales pentru introducerea unor funcționalități în paginile web, codul JavaScript din aceste pagini fiind rulat de către browser."
+})
+
+
+const nodeArt = new Article ({
+  title: "Node.js",
+  content:"https://nodejs.org/en/",
+  description: "Node.js este un mediu de execuție JavaScript de fundal multiplatformă cu sursă deschisă, care rulează pe motorul V8 și execută cod JavaScript în afara unui navigator web."
+})
+
+
+const defaultArticles = [htmlArt,cssArt,jsArt,nodeArt]
+
+
+module.exports = {
+  Article: Article,
+  defaultArticles: defaultArticles
+}

@@ -3,7 +3,7 @@
 }
 
 body {
-  background-image:url("https://imgs.search.brave.com/Aeknpzc9UA9TVgvl84upQJ4wStmLLVwP5R0dXAN3_xg/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXZlLmNv/bS93cC93cDI2NTE5/NTEuanBn");
+  background-image:url("https://img.freepik.com/free-vector/modern-simple-blue-gold-abstract-background-suitable-business-card-presentation-flyer-brochure-print-certificate-template_181182-16586.jpg?w=1060");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -14,15 +14,12 @@ body {
   width:60%;
   height:200px;
   float: left;
-  display:inline-block;
-
 }
 
 .middle-content{
   width:30%;
   height:200px;
   float: left;
-  display:inline-block;
   position: relative;
   top:100px;
 }
@@ -31,35 +28,32 @@ body {
   width:30%;
   height:200px;
   float: left;
-  display:inline-block;
   position: relative;
   top:300px;
 }
 .start-img{
   position:absolute;
-  display:inline-block;
   float: right;
   right:600px;
-  top:50px;
+  top:70px;
 }
 
 .middle-img {
   position: relative;
-  display: inline-block;
+
   float: left;
 
 }
 
 .end-img{
   position: relative;
-  display: inline-block;
+
   float: left;
   top:20px;
 }
 
 .disp-mod{
   position: absolute;
-  display: inline-block;
   float: left;
   left:400px;
   top:80px;
@@ -280,7 +274,7 @@ input[type="text"]:focus {
 }
 
 .box2 {
-  height: 200px;
+  height: 400px;
   position: relative;
   max-width: 800px;
   margin: 50px auto;
@@ -297,7 +291,7 @@ input[type="text"]:focus {
 
 .resize{
   position: relative;
-  left:600px;
+  left:200px;
   width:250px;
   height: 150px;
 }
@@ -326,11 +320,39 @@ input[type="text"]:focus {
 
 }
 
-.sing-vid{
-  padding:50px;
+.btn-right{
+  margin-left: -50px;
 }
 
 .unique{
   top:80px;
   height: 490px;
+}
+
+.alert{
+ text-align: center;
+ color: red;
+}
+
+.collapsible {
+  border-color: transparent;
+  background-color: #A683E3;
+  color: #fff;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: solid;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+}
+
+.active, .collapsible:hover {
+  background-color: #9370DB;
+}
+.faq {
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+  background-color: #f1f1f1;
 }

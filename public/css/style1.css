@@ -10,7 +10,7 @@
 body {
     width: 100%;
     min-height: 100vh;
-    background-image:url("https://imgs.search.brave.com/DpUci2-JBdLX1LPKbPTYBA_KU5RanjwOmHXhIyILAGI/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJ0YWcuY29t/L3dhbGxwYXBlci9m/dWxsLzgvYi8xLzgx/MzU2NC1iYWNrZ3Jv/dW5kLXNpbXBsZS10/dW1ibHItMTkyMHgx/MjAwLXBob3RvLmpw/Zw");
+    background-image:url("https://img.freepik.com/free-vector/modern-simple-blue-gold-abstract-background-suitable-business-card-presentation-flyer-brochure-print-certificate-template_181182-16586.jpg?w=1060");
     background-position: center;
     background-size: cover;
     display: flex;
@@ -132,4 +132,9 @@ h1{
   position: relative;
   left: 20%;
 
+}
+
+.alert{
+ text-align: center;
+ color: red;
 }

@@ -1,8 +1,8 @@
 <%- include('partials/header'); -%>
-
-  <div class="col-12 mt-5">
-    <div class="row justify-content-center my-own">
-      <div class="card w-50 justify-content-center d-flex align-items-center" style="background-color:transparent;">
+<div class="container">
+  <div class="col-12 mt-5 ">
+    <div class="row justify-content-center my-own ">
+      <div class="card w-50 justify-content-center d-flex align-items-center box2" style="background-color:transparent;">
           <h3>Program</h3>
           <h3>Monday - Friday: 09:00 - 18:00</h3>
           <h3>Support</h3>
@@ -17,5 +17,23 @@
         </form>
       </div>
     </div>
+    <hr>
+    <h4 style="text-align:center; font-family:Copperplate; font-size:40px; padding:20px;">FAQ</h4>
+    <button type="button" class="collapsible" style="text-align:center; padding:20px;">How to upload a video?</button>
+    <div class="faq">
+          <p>In order to upload a video you should click on section upload and then choose the file you want to introduce.</p>
+    </div>
+    <button type="button" class="collapsible" style="text-align:center; padding:20px;">Why to register?</button>
+    <div class="faq">
+          <p>The quality of subscriber allows you access to a full range of information and services.</p>
+    </div>
+    <button type="button" class="collapsible" style="text-align:center; padding:20px;">How to register?</button>
+    <div class="faq">
+          <p> At the bottom of our site  click on the "Start now" button and fill in the fields with your name, e-mail address and choose a password for the new account. Then press the "Register" button and you will be redirected to our main page where you can access all out futures.</p>
+    </div>
+
   </div>
+</div>
+  <script src="js/client.js"></script>
+  <script src="js/colapse.js"></script>
 <%- include('partials/footer'); -%>
